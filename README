@@ -1,14 +1,52 @@
 Noumenal PHP Library
 ====================
 
-Home of Noumenal FlashMessenger View Helper and more.
+PHP Classes. Mainly extensions to [Zend
+Framework](http://framework.zend.com/).
 
-** Currently being moved to GitHub **
+Email bug reports to <support@noumenal.co.uk>
 
-If you find this and need the last published version urgently use:
+License
+-------
+These source files are subject to the new BSD license that is bundled
+with this package in the file noumenal-new-bsd-licence.txt. It is also
+available through the world-wide-web at this URL:
 
-http://noumenal.co.uk/downloads/noumenal_php_library_r3.zip
+<http://noumenal.co.uk/license/new-bsd/>
+
+If you did not receive a copy of the license and are unable to obtain it
+through the world-wide-web, please send an email to
+support@noumenal.co.uk so we can send you a copy immediately.
+
+Attribution
+-----------
+Beyond maintaining the Copyright Notice and Licence, attribution is
+appreciated but not required. Please attribute where appropriate by
+linking to:
+
+<http://noumenal.co.uk/>
+
+Installation and Autoloading
+----------------------------------
+Copy the folder `library/Noumenal` into your application's include path.
+The Noumenal Library assumes that you have autoloading enabled.
+
+If using ZF >= v1.9.0 register the `Noumeal_` namespace with the
+autoloader in your bootstrap:
+
+    $loader = Zend_Loader_Autoloader::getInstance();
+    $loader->registerNamespace('Noumenal_');
 
 
-(Remember to check back - we're finally getting round to adding more goodies. :)
+Registering View Helpers
+------------------------
+Add the path and prefix for Noumenal View Helpers in your bootstrap.
 
+Minimally:
+
+    $view = new Zend_View;
+    $view->addHelperPath('Noumenal/View/Helper','Noumenal_View_Helper');
+
+
+See [A Fading Tan's PHP
+Label](http://blog.noumenal.co.uk/search/label/PHP) for more details.
