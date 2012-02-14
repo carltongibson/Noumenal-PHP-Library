@@ -1,0 +1,1 @@
+#selstart#boolean #selend#inherits(#placeholderstart#Zend_Acl_Resource_Interface resource#placeholderend#, #placeholderstart#Zend_Acl_Resource_Interface inherit#placeholderend##placeholderstart#, [boolean onlyParent]#placeholderend#)#placeholderstart#;#placeholderend#

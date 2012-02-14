@@ -1,0 +1,1 @@
+#selstart#Zend_Queue #selend#createQueue(#placeholderstart#string name#placeholderend##placeholderstart#, [integer timeout]#placeholderend#)#placeholderstart#;#placeholderend#

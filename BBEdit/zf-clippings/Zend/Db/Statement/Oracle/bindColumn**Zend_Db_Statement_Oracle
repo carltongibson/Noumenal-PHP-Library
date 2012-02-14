@@ -1,0 +1,1 @@
+#selstart#bool #selend#bindColumn(#placeholderstart#string column#placeholderend#, #placeholderstart#mixed param#placeholderend##placeholderstart#, [mixed type]#placeholderend#)#placeholderstart#;#placeholderend#

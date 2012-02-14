@@ -1,0 +1,1 @@
+#selstart#boolean #selend#attributeHasValue(#placeholderstart#string attribName#placeholderend#, #placeholderstart#mixed value#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#array #selend#describeByImageId(#placeholderstart#string imageId#placeholderend##placeholderstart#, [boolean ignoreTerminated]#placeholderend#)#placeholderstart#;#placeholderend#

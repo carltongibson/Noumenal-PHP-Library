@@ -1,0 +1,1 @@
+#selstart#Zend_Test_DbAdapter #selend#setDescribeTable(#placeholderstart#string table#placeholderend#, #placeholderstart#array tableInfo#placeholderend#)#placeholderstart#;#placeholderend#

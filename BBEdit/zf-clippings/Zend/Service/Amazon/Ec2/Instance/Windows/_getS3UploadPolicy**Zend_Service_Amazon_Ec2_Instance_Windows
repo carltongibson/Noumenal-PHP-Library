@@ -1,0 +1,1 @@
+#selstart#string #selend#_getS3UploadPolicy(#placeholderstart#string bucketName#placeholderend#, #placeholderstart#string prefix#placeholderend##placeholderstart#, [integer expireInMinutes]#placeholderend#)#placeholderstart#;#placeholderend#

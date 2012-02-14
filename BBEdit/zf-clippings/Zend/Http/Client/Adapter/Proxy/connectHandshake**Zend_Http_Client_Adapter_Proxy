@@ -1,0 +1,1 @@
+connectHandshake(#placeholderstart#string host#placeholderend##placeholderstart#, [integer port]#placeholderend##placeholderstart#, [string http_ver]#placeholderend##placeholderstart#, [array headers]#placeholderend#)#placeholderstart#;#placeholderend#

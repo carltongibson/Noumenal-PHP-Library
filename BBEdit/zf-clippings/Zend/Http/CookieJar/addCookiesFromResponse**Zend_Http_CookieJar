@@ -1,0 +1,1 @@
+addCookiesFromResponse(#placeholderstart#Zend_Http_Response response#placeholderend#, #placeholderstart#Zend_Uri_Http ref_uri#placeholderend#)#placeholderstart#;#placeholderend#

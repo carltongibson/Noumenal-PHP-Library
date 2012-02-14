@@ -1,0 +1,1 @@
+#selstart#mixed #selend#createDhKey(#placeholderstart#string p#placeholderend#, #placeholderstart#string g#placeholderend##placeholderstart#, [string priv_key]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#Zend_Paginator_Adapter_DbSelect #selend#setRowCount(#placeholderstart#Zend_Db_Select rowCount#placeholderend#)#placeholderstart#;#placeholderend#

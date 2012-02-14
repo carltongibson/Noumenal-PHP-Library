@@ -1,0 +1,1 @@
+#selstart#string #selend#getQueryString(#placeholderstart#[integer majorProtocolVersion]#placeholderend##placeholderstart#, [integer minorProtocolVersion]#placeholderend#)#placeholderstart#;#placeholderend#

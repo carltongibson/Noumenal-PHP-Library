@@ -1,0 +1,1 @@
+assertNotContainsOnly(#placeholderstart#string type#placeholderend#, #placeholderstart#mixed haystack#placeholderend##placeholderstart#, [boolean isNativeType]#placeholderend##placeholderstart#, [string message]#placeholderend#)#placeholderstart#;#placeholderend#

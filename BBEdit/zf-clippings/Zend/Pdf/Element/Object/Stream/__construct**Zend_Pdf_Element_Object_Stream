@@ -1,0 +1,1 @@
+__construct(#placeholderstart#mixed val#placeholderend#, #placeholderstart#integer objNum#placeholderend#, #placeholderstart#integer genNum#placeholderend#, #placeholderstart#Zend_Pdf_ElementFactory factory#placeholderend##placeholderstart#, [Zend_Pdf_Element_Dictionary dictionary]#placeholderend#)#placeholderstart#;#placeholderend#

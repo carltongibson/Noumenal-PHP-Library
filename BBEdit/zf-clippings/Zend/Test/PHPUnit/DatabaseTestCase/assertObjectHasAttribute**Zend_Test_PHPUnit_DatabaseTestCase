@@ -1,0 +1,1 @@
+assertObjectHasAttribute(#placeholderstart#string attributeName#placeholderend#, #placeholderstart#object object#placeholderend##placeholderstart#, [string message]#placeholderend#)#placeholderstart#;#placeholderend#

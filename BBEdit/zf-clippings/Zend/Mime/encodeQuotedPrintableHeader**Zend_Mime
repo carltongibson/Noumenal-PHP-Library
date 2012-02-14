@@ -1,0 +1,1 @@
+#selstart#string #selend#encodeQuotedPrintableHeader(#placeholderstart#string str#placeholderend#, #placeholderstart#string charset#placeholderend##placeholderstart#, [int lineLength]#placeholderend##placeholderstart#, [int lineEnd]#placeholderend#)#placeholderstart#;#placeholderend#

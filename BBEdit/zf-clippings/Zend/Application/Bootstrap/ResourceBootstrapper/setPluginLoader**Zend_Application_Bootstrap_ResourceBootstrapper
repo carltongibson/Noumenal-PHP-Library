@@ -1,0 +1,1 @@
+#selstart#Zend_Application_Bootstrap_ResourceBootstrapper #selend#setPluginLoader(#placeholderstart#Zend_Loader_PluginLoader_Interface loader#placeholderend#)#placeholderstart#;#placeholderend#

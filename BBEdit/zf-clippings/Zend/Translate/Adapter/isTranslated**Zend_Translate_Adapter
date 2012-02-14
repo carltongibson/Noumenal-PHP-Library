@@ -1,0 +1,1 @@
+#selstart#boolean #selend#isTranslated(#placeholderstart#string messageId#placeholderend##placeholderstart#, [boolean original]#placeholderend##placeholderstart#, [string locale]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#void #selend#setConnection(#placeholderstart#Zend_Mail_Protocol_Abstract connection#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#bool #selend#_notHeader(#placeholderstart#Zend_Controller_Response_Abstract response#placeholderend#, #placeholderstart#string header#placeholderend#)#placeholderstart#;#placeholderend#

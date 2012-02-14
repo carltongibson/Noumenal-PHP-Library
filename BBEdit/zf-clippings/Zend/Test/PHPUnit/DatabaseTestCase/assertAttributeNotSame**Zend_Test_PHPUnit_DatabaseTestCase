@@ -1,0 +1,1 @@
+assertAttributeNotSame(#placeholderstart#mixed expected#placeholderend#, #placeholderstart#string actualAttributeName#placeholderend#, #placeholderstart#object actualClassOrObject#placeholderend##placeholderstart#, [string message]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#Zend_Application_Resource_Db #selend#setIsDefaultTableAdapter(#placeholderstart#boolean isDefaultTableAdapter#placeholderend#)#placeholderstart#;#placeholderend#

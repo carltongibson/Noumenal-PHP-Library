@@ -1,0 +1,1 @@
+#selstart#void #selend#setIpValidator(#placeholderstart#[Zend_Validate_Ip ipValidator]#placeholderend#)#placeholderstart#;#placeholderend#

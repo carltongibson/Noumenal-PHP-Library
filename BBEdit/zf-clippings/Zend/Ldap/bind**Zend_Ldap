@@ -1,0 +1,1 @@
+#selstart#Zend_Ldap #selend#bind(#placeholderstart#[string username]#placeholderend##placeholderstart#, [string password]#placeholderend#)#placeholderstart#;#placeholderend#

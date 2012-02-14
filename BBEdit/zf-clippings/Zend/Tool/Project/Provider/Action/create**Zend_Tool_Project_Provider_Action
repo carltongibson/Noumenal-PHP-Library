@@ -1,0 +1,1 @@
+create(#placeholderstart#string name#placeholderend##placeholderstart#, [string controllerName]#placeholderend##placeholderstart#, [bool viewIncluded]#placeholderend##placeholderstart#, [ module]#placeholderend#)#placeholderstart#;#placeholderend#

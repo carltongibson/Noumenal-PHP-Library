@@ -1,0 +1,1 @@
+#selstart#Zend_Db_Profiler #selend#setEnabled(#placeholderstart#boolean enable#placeholderend#)#placeholderstart#;#placeholderend#

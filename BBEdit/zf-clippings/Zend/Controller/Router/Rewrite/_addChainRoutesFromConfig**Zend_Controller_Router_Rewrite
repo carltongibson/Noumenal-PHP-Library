@@ -1,0 +1,1 @@
+#selstart#void #selend#_addChainRoutesFromConfig(#placeholderstart#string name#placeholderend#, #placeholderstart#Zend_Controller_Router_Route_Interface route#placeholderend#, #placeholderstart#Zend_Config childRoutesInfo#placeholderend#)#placeholderstart#;#placeholderend#

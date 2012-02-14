@@ -1,0 +1,1 @@
+#selstart#void #selend#setClass(#placeholderstart#mixed class#placeholderend##placeholderstart#, [string namespace]#placeholderend##placeholderstart#, [null argv]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#Zend_Pdf_Destination_FitBoundingBoxHorizontally #selend#create(#placeholderstart#Zend_Pdf_Page page#placeholderend#, #placeholderstart#float top#placeholderend#)#placeholderstart#;#placeholderend#

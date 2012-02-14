@@ -1,0 +1,1 @@
+#selstart#bool #selend#storeAssertion(#placeholderstart#string assertionURI#placeholderend#, #placeholderstart#string assertionID#placeholderend#, #placeholderstart#array conditions#placeholderend#)#placeholderstart#;#placeholderend#

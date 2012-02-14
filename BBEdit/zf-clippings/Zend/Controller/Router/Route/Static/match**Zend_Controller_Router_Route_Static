@@ -1,0 +1,1 @@
+#selstart#array #selend#match(#placeholderstart#string path#placeholderend##placeholderstart#, [ partial]#placeholderend#)#placeholderstart#;#placeholderend#

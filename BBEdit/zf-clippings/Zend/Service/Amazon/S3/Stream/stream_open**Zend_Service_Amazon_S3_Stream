@@ -1,0 +1,1 @@
+#selstart#boolean #selend#stream_open(#placeholderstart#string path#placeholderend#, #placeholderstart#string mode#placeholderend#, #placeholderstart#integer options#placeholderend#, #placeholderstart#string opened_path#placeholderend#)#placeholderstart#;#placeholderend#

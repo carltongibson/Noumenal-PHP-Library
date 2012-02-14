@@ -1,0 +1,1 @@
+#selstart#Zend_Pdf_Page #selend#drawLayoutBox(#placeholderstart#Zend_Pdf_Element_LayoutBox box#placeholderend#, #placeholderstart#float x#placeholderend#, #placeholderstart#float y#placeholderend#)#placeholderstart#;#placeholderend#

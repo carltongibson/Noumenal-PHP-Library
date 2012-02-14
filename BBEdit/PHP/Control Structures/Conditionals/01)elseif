@@ -1,0 +1,4 @@
+#indent#
+elseif (#placeholderstart#test condition#placeholderend#) {
+    #insertion#
+}

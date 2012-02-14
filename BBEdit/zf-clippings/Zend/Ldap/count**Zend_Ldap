@@ -1,0 +1,1 @@
+#selstart#integer #selend#count(#placeholderstart#string filter#placeholderend##placeholderstart#, [string basedn]#placeholderend##placeholderstart#, [integer scope]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#Zend_Ldap #selend#moveToSubtree(#placeholderstart#string from#placeholderend#, #placeholderstart#string to#placeholderend##placeholderstart#, [boolean recursively]#placeholderend##placeholderstart#, [boolean alwaysEmulate]#placeholderend#)#placeholderstart#;#placeholderend#

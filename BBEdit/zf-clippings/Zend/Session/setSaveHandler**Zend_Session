@@ -1,0 +1,1 @@
+#selstart#void #selend#setSaveHandler(#placeholderstart#Zend_Session_SaveHandler_Interface saveHandler#placeholderend#)#placeholderstart#;#placeholderend#

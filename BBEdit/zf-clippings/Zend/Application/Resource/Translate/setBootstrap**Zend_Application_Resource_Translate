@@ -1,0 +1,1 @@
+#selstart#Zend_Application_Resource_Resource #selend#setBootstrap(#placeholderstart#Zend_Application_Bootstrap_Bootstrapper bootstrap#placeholderend#)#placeholderstart#;#placeholderend#

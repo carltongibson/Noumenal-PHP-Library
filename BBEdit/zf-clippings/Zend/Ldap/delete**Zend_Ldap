@@ -1,0 +1,1 @@
+#selstart#Zend_Ldap #selend#delete(#placeholderstart#string dn#placeholderend##placeholderstart#, [boolean recursively]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#Zend_Pdf_Destination_Zoom #selend#create(#placeholderstart#Zend_Pdf_Page page#placeholderend##placeholderstart#, [float left]#placeholderend##placeholderstart#, [float top]#placeholderend##placeholderstart#, [float zoom]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#void #selend#_log(#placeholderstart#string message#placeholderend##placeholderstart#, [ priority]#placeholderend#)#placeholderstart#;#placeholderend#

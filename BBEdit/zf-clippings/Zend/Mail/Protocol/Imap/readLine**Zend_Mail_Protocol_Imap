@@ -1,0 +1,1 @@
+#selstart#bool #selend#readLine(#placeholderstart#[array tokens]#placeholderend##placeholderstart#, [string wantedTag]#placeholderend##placeholderstart#, [bool dontParse]#placeholderend#)#placeholderstart#;#placeholderend#

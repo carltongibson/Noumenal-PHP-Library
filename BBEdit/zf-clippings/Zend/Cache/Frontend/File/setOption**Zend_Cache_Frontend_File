@@ -1,0 +1,1 @@
+#selstart#void #selend#setOption(#placeholderstart#string name#placeholderend#, #placeholderstart#mixed value#placeholderend#)#placeholderstart#;#placeholderend#

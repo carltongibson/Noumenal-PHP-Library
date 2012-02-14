@@ -1,0 +1,1 @@
+#selstart#string #selend#translate(#placeholderstart#string messageId#placeholderend##placeholderstart#, [string locale]#placeholderend#)#placeholderstart#;#placeholderend#

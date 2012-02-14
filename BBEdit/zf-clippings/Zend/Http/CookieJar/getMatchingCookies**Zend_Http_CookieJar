@@ -1,0 +1,1 @@
+#selstart#array #selend#getMatchingCookies(#placeholderstart#string uri#placeholderend##placeholderstart#, [boolean matchSessionCookies]#placeholderend##placeholderstart#, [int ret_as]#placeholderend##placeholderstart#, [int now]#placeholderend#)#placeholderstart#;#placeholderend#

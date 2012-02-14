@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#DOMElement entry#placeholderend#, #placeholderstart#int entryKey#placeholderend##placeholderstart#, [string type]#placeholderend#)#placeholderstart#;#placeholderend#

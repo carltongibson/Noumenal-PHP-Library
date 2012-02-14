@@ -1,0 +1,1 @@
+#selstart#array #selend#_prepareReference(#placeholderstart#Zend_Db_Table_Abstract dependentTable#placeholderend#, #placeholderstart#Zend_Db_Table_Abstract parentTable#placeholderend#, #placeholderstart#string ruleKey#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#Zend_Pdf_Page #selend#setAlpha(#placeholderstart#float alpha#placeholderend##placeholderstart#, [string mode]#placeholderend#)#placeholderstart#;#placeholderend#

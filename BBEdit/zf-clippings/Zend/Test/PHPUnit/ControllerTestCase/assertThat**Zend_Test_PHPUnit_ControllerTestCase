@@ -1,0 +1,1 @@
+assertThat(#placeholderstart#mixed value#placeholderend#, #placeholderstart#PHPUnit_Framework_Constraint constraint#placeholderend##placeholderstart#, [string message]#placeholderend#)#placeholderstart#;#placeholderend#

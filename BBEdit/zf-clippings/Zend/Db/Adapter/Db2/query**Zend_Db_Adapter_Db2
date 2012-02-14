@@ -1,0 +1,1 @@
+#selstart#Zend_Db_Statement_Interface #selend#query(#placeholderstart#mixed sql#placeholderend##placeholderstart#, [mixed bind]#placeholderend#)#placeholderstart#;#placeholderend#

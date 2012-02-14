@@ -1,0 +1,1 @@
+#selstart#array #selend#getSlideShowsByUsername(#placeholderstart#string username#placeholderend##placeholderstart#, [int offset]#placeholderend##placeholderstart#, [int limit]#placeholderend#)#placeholderstart#;#placeholderend#

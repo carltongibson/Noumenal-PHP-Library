@@ -1,0 +1,1 @@
+#selstart#string #selend#fetch(#placeholderstart#string items#placeholderend#, #placeholderstart#int from#placeholderend##placeholderstart#, [int to]#placeholderend#)#placeholderstart#;#placeholderend#

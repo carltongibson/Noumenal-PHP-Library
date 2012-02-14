@@ -1,0 +1,1 @@
+#selstart#Zend_Service_Yahoo_LocalResultSet #selend#localSearch(#placeholderstart#string query#placeholderend##placeholderstart#, [array options]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+__construct(#placeholderstart#[string status]#placeholderend##placeholderstart#, [string errorCode]#placeholderend##placeholderstart#, [Zend_Http_Response httpResponse]#placeholderend#)#placeholderstart#;#placeholderend#

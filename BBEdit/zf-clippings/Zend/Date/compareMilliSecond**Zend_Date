@@ -1,0 +1,1 @@
+#selstart#integer #selend#compareMilliSecond(#placeholderstart#[integer milli]#placeholderend##placeholderstart#, [integer precision]#placeholderend#)#placeholderstart#;#placeholderend#

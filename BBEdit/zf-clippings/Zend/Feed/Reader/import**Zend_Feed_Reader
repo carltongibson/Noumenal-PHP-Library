@@ -1,0 +1,1 @@
+#selstart#Zend_Feed_Reader_Feed_Interface #selend#import(#placeholderstart#string uri#placeholderend##placeholderstart#, [string etag]#placeholderend##placeholderstart#, [string lastModified]#placeholderend#)#placeholderstart#;#placeholderend#

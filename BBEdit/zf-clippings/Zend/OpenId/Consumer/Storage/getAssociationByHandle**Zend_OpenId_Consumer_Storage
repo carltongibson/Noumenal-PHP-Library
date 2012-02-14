@@ -1,0 +1,1 @@
+#selstart#bool #selend#getAssociationByHandle(#placeholderstart#string handle#placeholderend#, #placeholderstart#string url#placeholderend#, #placeholderstart#string macFunc#placeholderend#, #placeholderstart#string secret#placeholderend#, #placeholderstart#long expires#placeholderend#)#placeholderstart#;#placeholderend#

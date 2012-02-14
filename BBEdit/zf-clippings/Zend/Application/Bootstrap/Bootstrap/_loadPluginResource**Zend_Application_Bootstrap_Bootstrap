@@ -1,0 +1,1 @@
+#selstart#string #selend#_loadPluginResource(#placeholderstart#string resource#placeholderend#, #placeholderstart#array options#placeholderend#)#placeholderstart#;#placeholderend#

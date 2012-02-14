@@ -1,0 +1,1 @@
+__construct(#placeholderstart#String name#placeholderend#, #placeholderstart#Boolean mustRead#placeholderend#, #placeholderstart#misc data#placeholderend##placeholderstart#, [integer length]#placeholderend#)#placeholderstart#;#placeholderend#

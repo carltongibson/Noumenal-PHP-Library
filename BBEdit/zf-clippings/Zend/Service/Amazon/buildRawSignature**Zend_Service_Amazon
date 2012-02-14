@@ -1,0 +1,1 @@
+#selstart#string #selend#buildRawSignature(#placeholderstart#string baseUri#placeholderend#, #placeholderstart#array options#placeholderend#)#placeholderstart#;#placeholderend#

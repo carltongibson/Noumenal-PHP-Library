@@ -1,0 +1,1 @@
+#selstart#Zend_Mail #selend#setBodyHtml(#placeholderstart#string html#placeholderend##placeholderstart#, [string charset]#placeholderend##placeholderstart#, [string encoding]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#void #selend#_addBranch(#placeholderstart#Zend_Config config#placeholderend#, #placeholderstart#SimpleXMLElement xml#placeholderend#, #placeholderstart#SimpleXMLElement parent#placeholderend#)#placeholderstart#;#placeholderend#

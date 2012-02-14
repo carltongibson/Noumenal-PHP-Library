@@ -1,0 +1,1 @@
+#selstart#Zend_Gdata_Photos_TagEntry #selend#insertTagEntry(#placeholderstart#Zend_Gdata_Photos_TagEntry tag#placeholderend##placeholderstart#, [string uri]#placeholderend#)#placeholderstart#;#placeholderend#

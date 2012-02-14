@@ -1,0 +1,1 @@
+__construct(#placeholderstart#[string content]#placeholderend##placeholderstart#, [string align]#placeholderend##placeholderstart#, [integer colSpan]#placeholderend##placeholderstart#, [string charset]#placeholderend#)#placeholderstart#;#placeholderend#

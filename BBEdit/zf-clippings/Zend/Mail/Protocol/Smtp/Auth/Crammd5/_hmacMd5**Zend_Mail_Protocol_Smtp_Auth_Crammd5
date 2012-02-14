@@ -1,0 +1,1 @@
+#selstart#string #selend#_hmacMd5(#placeholderstart#string key#placeholderend#, #placeholderstart#string data#placeholderend##placeholderstart#, [string block]#placeholderend#)#placeholderstart#;#placeholderend#

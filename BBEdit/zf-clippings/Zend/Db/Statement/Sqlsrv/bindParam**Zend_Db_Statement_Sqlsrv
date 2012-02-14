@@ -1,0 +1,1 @@
+#selstart#bool #selend#bindParam(#placeholderstart#mixed parameter#placeholderend#, #placeholderstart#mixed variable#placeholderend##placeholderstart#, [mixed type]#placeholderend##placeholderstart#, [mixed length]#placeholderend##placeholderstart#, [mixed options]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#string #selend#setFragment(#placeholderstart#string fragment#placeholderend#)#placeholderstart#;#placeholderend#

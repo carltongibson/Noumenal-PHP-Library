@@ -1,0 +1,1 @@
+#selstart#Zend_Reflection_Property #selend#getProperty(#placeholderstart#string name#placeholderend##placeholderstart#, [string reflectionClass]#placeholderend#)#placeholderstart#;#placeholderend#

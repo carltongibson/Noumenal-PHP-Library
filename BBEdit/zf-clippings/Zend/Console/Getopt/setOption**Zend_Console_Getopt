@@ -1,0 +1,1 @@
+#selstart#Zend_Console_Getopt #selend#setOption(#placeholderstart#string configKey#placeholderend#, #placeholderstart#string configValue#placeholderend#)#placeholderstart#;#placeholderend#

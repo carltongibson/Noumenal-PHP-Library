@@ -1,0 +1,1 @@
+__construct(#placeholderstart#Zend_Db_Adapter db#placeholderend#, #placeholderstart#string table#placeholderend##placeholderstart#, [array columnMap]#placeholderend#)#placeholderstart#;#placeholderend#

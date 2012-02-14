@@ -1,0 +1,1 @@
+assertAttributeContainsOnly(#placeholderstart#string type#placeholderend#, #placeholderstart#string haystackAttributeName#placeholderend#, #placeholderstart#mixed haystackClassOrObject#placeholderend##placeholderstart#, [boolean isNativeType]#placeholderend##placeholderstart#, [string message]#placeholderend#)#placeholderstart#;#placeholderend#

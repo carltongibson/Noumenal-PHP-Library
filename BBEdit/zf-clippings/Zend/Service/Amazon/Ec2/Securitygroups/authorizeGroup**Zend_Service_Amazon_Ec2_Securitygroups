@@ -1,0 +1,1 @@
+#selstart#boolean #selend#authorizeGroup(#placeholderstart#string name#placeholderend#, #placeholderstart#string groupName#placeholderend#, #placeholderstart#string ownerId#placeholderend#)#placeholderstart#;#placeholderend#

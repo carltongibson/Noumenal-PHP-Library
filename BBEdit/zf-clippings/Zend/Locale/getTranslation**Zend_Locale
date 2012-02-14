@@ -1,0 +1,1 @@
+#selstart#string #selend#getTranslation(#placeholderstart#[string value]#placeholderend##placeholderstart#, [string path]#placeholderend##placeholderstart#, [string locale]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#string #selend#rand(#placeholderstart#string minimum#placeholderend#, #placeholderstart#string maximum#placeholderend#)#placeholderstart#;#placeholderend#

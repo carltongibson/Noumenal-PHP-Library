@@ -1,0 +1,1 @@
+#selstart#array #selend#get(#placeholderstart#int index#placeholderend##placeholderstart#, [int length]#placeholderend##placeholderstart#, [string caseFold]#placeholderend#)#placeholderstart#;#placeholderend#

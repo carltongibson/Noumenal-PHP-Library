@@ -1,0 +1,1 @@
+#selstart#array #selend#getSlideShowsByGroup(#placeholderstart#string group#placeholderend##placeholderstart#, [int offset]#placeholderend##placeholderstart#, [int limit]#placeholderend#)#placeholderstart#;#placeholderend#

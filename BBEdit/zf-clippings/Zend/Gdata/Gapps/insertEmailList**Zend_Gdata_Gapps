@@ -1,0 +1,1 @@
+#selstart#Zend_Gdata_Gapps_EmailListEntry #selend#insertEmailList(#placeholderstart#Zend_Gdata_Gapps_EmailListEntry emailList#placeholderend##placeholderstart#, [string uri]#placeholderend#)#placeholderstart#;#placeholderend#

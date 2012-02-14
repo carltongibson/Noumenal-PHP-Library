@@ -1,0 +1,1 @@
+#selstart#PHPUnit_Extensions_Database_DB_DefaultDatabaseConnection #selend#createDefaultDBConnection(#placeholderstart#PDO connection#placeholderend#, #placeholderstart#string schema#placeholderend#)#placeholderstart#;#placeholderend#

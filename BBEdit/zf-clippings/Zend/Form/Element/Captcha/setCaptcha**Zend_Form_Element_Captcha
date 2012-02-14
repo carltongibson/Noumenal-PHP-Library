@@ -1,0 +1,1 @@
+setCaptcha(#placeholderstart#string captcha#placeholderend##placeholderstart#, [array options]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#string #selend#encode(#placeholderstart#string str#placeholderend#, #placeholderstart#string encoding#placeholderend##placeholderstart#, [string EOL]#placeholderend#)#placeholderstart#;#placeholderend#

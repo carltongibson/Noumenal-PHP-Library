@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#[array tagsAllowed]#placeholderend##placeholderstart#, [array attributesAllowed]#placeholderend##placeholderstart#, [boolean commentsAllowed]#placeholderend#)#placeholderstart#;#placeholderend#

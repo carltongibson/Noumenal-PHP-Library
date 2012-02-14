@@ -1,0 +1,1 @@
+#selstart#Zend_Controller_Action_Helper_ActionStack #selend#actionToStack(#placeholderstart#string action#placeholderend##placeholderstart#, [string controller]#placeholderend##placeholderstart#, [string module]#placeholderend##placeholderstart#, [array params]#placeholderend#)#placeholderstart#;#placeholderend#

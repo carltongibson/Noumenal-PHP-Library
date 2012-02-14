@@ -1,0 +1,1 @@
+assertNotRegExp(#placeholderstart#string pattern#placeholderend#, #placeholderstart#string string#placeholderend##placeholderstart#, [string message]#placeholderend#)#placeholderstart#;#placeholderend#

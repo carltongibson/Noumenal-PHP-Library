@@ -1,0 +1,1 @@
+#selstart#boolean #selend#inherits(#placeholderstart#Zend_Acl_Role_Interface role#placeholderend#, #placeholderstart#Zend_Acl_Role_Interface inherit#placeholderend##placeholderstart#, [boolean onlyParents]#placeholderend#)#placeholderstart#;#placeholderend#

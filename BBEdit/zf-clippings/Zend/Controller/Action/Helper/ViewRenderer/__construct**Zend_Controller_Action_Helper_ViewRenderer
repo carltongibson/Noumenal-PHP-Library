@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#[Zend_View_Interface view]#placeholderend##placeholderstart#, [array options]#placeholderend#)#placeholderstart#;#placeholderend#

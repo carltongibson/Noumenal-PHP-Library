@@ -1,0 +1,1 @@
+#selstart#integer #selend#_calcdetail(#placeholderstart#string calc#placeholderend#, #placeholderstart#string date#placeholderend#, #placeholderstart#string type#placeholderend#, #placeholderstart#string locale#placeholderend#)#placeholderstart#;#placeholderend#

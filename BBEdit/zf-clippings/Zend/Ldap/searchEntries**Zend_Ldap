@@ -1,0 +1,1 @@
+#selstart#array #selend#searchEntries(#placeholderstart#string filter#placeholderend##placeholderstart#, [string basedn]#placeholderend##placeholderstart#, [integer scope]#placeholderend##placeholderstart#, [array attributes]#placeholderend##placeholderstart#, [string sort]#placeholderend#)#placeholderstart#;#placeholderend#

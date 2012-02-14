@@ -1,0 +1,1 @@
+#selstart#string #selend#strPad(#placeholderstart#string input#placeholderend#, #placeholderstart#integer padLength#placeholderend##placeholderstart#, [string padString]#placeholderend##placeholderstart#, [integer padType]#placeholderend##placeholderstart#, [string charset]#placeholderend#)#placeholderstart#;#placeholderend#

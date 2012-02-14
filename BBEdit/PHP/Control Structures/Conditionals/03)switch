@@ -1,0 +1,10 @@
+#indent#
+switch (#placeholderstart#test#placeholderend#)
+{
+    case "#placeholderstart#result#placeholderend#":
+        #insertion#
+        break;
+    default:
+        #insertion#
+        break;
+}

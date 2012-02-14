@@ -1,0 +1,1 @@
+#selstart#boolean #selend#recordMessage(#placeholderstart#Zend_Wildfire_Plugin_Interface plugin#placeholderend#, #placeholderstart#string structure#placeholderend#, #placeholderstart#array data#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,5 @@
+#indent#
+for (#placeholderstart#initialise#placeholderend#; #placeholderstart#test conditon#placeholderend#; #placeholderstart#update#placeholderend#)
+{
+    #insertion#
+}

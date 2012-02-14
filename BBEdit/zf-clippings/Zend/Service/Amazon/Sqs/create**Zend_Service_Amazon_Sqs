@@ -1,0 +1,1 @@
+#selstart#string #selend#create(#placeholderstart#string queue_name#placeholderend##placeholderstart#, [integer timeout]#placeholderend#)#placeholderstart#;#placeholderend#

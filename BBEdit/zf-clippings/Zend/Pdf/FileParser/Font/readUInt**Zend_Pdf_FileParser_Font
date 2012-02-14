@@ -1,0 +1,1 @@
+#selstart#integer #selend#readUInt(#placeholderstart#integer size#placeholderend##placeholderstart#, [integer byteOrder]#placeholderend#)#placeholderstart#;#placeholderend#

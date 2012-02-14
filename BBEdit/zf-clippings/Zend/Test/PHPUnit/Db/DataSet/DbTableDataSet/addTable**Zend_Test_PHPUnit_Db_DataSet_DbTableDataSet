@@ -1,0 +1,1 @@
+addTable(#placeholderstart#Zend_Db_Table_Abstract table#placeholderend##placeholderstart#, [string where]#placeholderend##placeholderstart#, [string order]#placeholderend##placeholderstart#, [string count]#placeholderend##placeholderstart#, [string offset]#placeholderend#)#placeholderstart#;#placeholderend#

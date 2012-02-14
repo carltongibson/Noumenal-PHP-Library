@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#Zend_Feed_Abstract dom#placeholderend##placeholderstart#, [string type]#placeholderend##placeholderstart#, [ xpath]#placeholderend#)#placeholderstart#;#placeholderend#

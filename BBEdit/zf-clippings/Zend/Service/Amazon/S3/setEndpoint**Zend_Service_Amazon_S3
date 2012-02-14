@@ -1,0 +1,1 @@
+#selstart#Zend_Service_Amazon_S3 #selend#setEndpoint(#placeholderstart#string endpoint#placeholderend#)#placeholderstart#;#placeholderend#

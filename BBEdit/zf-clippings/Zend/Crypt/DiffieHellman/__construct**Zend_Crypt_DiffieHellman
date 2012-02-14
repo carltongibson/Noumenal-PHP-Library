@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#string prime#placeholderend#, #placeholderstart#string generator#placeholderend##placeholderstart#, [string privateKey]#placeholderend##placeholderstart#, [string privateKeyType]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#array #selend#bundle(#placeholderstart#string instanceId#placeholderend#, #placeholderstart#string s3Bucket#placeholderend#, #placeholderstart#string s3Prefix#placeholderend##placeholderstart#, [integer uploadExpiration]#placeholderend#)#placeholderstart#;#placeholderend#

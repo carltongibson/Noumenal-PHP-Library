@@ -1,0 +1,1 @@
+#selstart#string #selend#_expect(#placeholderstart#string code#placeholderend##placeholderstart#, [ timeout]#placeholderend#)#placeholderstart#;#placeholderend#

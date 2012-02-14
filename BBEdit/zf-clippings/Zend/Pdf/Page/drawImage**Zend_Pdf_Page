@@ -1,0 +1,1 @@
+#selstart#Zend_Pdf_Page #selend#drawImage(#placeholderstart#Zend_Pdf_Image image#placeholderend#, #placeholderstart#float x1#placeholderend#, #placeholderstart#float y1#placeholderend#, #placeholderstart#float x2#placeholderend#, #placeholderstart#float y2#placeholderend#)#placeholderstart#;#placeholderend#

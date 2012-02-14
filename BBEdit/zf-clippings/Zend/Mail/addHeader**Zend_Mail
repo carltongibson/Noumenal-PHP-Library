@@ -1,0 +1,1 @@
+#selstart#Zend_Mail #selend#addHeader(#placeholderstart#string name#placeholderend#, #placeholderstart#string value#placeholderend##placeholderstart#, [boolean append]#placeholderend#)#placeholderstart#;#placeholderend#

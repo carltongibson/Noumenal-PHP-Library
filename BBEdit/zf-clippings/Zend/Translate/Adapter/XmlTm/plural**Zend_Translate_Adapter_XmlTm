@@ -1,0 +1,1 @@
+#selstart#string #selend#plural(#placeholderstart#string singular#placeholderend#, #placeholderstart#string plural#placeholderend#, #placeholderstart#integer number#placeholderend##placeholderstart#, [string locale]#placeholderend#)#placeholderstart#;#placeholderend#

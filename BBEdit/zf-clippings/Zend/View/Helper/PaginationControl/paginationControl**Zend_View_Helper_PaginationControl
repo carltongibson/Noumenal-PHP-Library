@@ -1,0 +1,1 @@
+#selstart#string #selend#paginationControl(#placeholderstart#[Zend_Paginator paginator]#placeholderend##placeholderstart#, [string scrollingStyle]#placeholderend##placeholderstart#, [string partial]#placeholderend##placeholderstart#, [array params]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#void #selend#setConnection(#placeholderstart#Zend_Queue_Stomp_Client_ConnectionInterface connection#placeholderend#)#placeholderstart#;#placeholderend#

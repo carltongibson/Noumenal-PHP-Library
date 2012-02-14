@@ -1,0 +1,1 @@
+#selstart#string #selend#compute(#placeholderstart#string key#placeholderend#, #placeholderstart#string hash#placeholderend#, #placeholderstart#string data#placeholderend##placeholderstart#, [string output]#placeholderend#)#placeholderstart#;#placeholderend#

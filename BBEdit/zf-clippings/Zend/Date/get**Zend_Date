@@ -1,0 +1,1 @@
+#selstart#string #selend#get(#placeholderstart#[string part]#placeholderend##placeholderstart#, [string locale]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#PHPUnit_Framework_Constraint_StringContains #selend#stringContains(#placeholderstart#string string#placeholderend##placeholderstart#, [boolean case]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#Zend_Pdf_Page #selend#scale(#placeholderstart#float xScale#placeholderend#, #placeholderstart#float yScale#placeholderend#)#placeholderstart#;#placeholderend#

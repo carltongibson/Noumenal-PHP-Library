@@ -1,0 +1,1 @@
+#selstart#Zend_View_Abstract #selend#setPluginLoader(#placeholderstart#Zend_Loader_PluginLoader loader#placeholderend#, #placeholderstart#string type#placeholderend#)#placeholderstart#;#placeholderend#

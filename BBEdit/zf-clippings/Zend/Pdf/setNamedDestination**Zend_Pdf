@@ -1,0 +1,1 @@
+setNamedDestination(#placeholderstart#string name#placeholderend##placeholderstart#, [Zend_Pdf_Destination_Explicit destination]#placeholderend#)#placeholderstart#;#placeholderend#

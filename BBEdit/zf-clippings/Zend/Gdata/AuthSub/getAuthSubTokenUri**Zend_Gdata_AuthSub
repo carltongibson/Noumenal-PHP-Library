@@ -1,0 +1,1 @@
+getAuthSubTokenUri(#placeholderstart#string next#placeholderend#, #placeholderstart#string scope#placeholderend##placeholderstart#, [int secure]#placeholderend##placeholderstart#, [int session]#placeholderend##placeholderstart#, [string request_uri]#placeholderend#)#placeholderstart#;#placeholderend#

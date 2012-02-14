@@ -1,0 +1,1 @@
+#selstart#Zend_Ldap #selend#connect(#placeholderstart#[string host]#placeholderend##placeholderstart#, [int port]#placeholderend##placeholderstart#, [boolean useSsl]#placeholderend##placeholderstart#, [boolean useStartTls]#placeholderend#)#placeholderstart#;#placeholderend#

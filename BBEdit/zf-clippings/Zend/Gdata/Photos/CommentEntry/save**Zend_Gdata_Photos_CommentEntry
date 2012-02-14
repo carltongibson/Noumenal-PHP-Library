@@ -1,0 +1,1 @@
+#selstart#Zend_Gdata_App_Entry #selend#save(#placeholderstart#[string uri]#placeholderend##placeholderstart#, [string className]#placeholderend##placeholderstart#, [array extraHeaders]#placeholderend#)#placeholderstart#;#placeholderend#

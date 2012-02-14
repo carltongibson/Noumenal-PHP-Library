@@ -1,0 +1,1 @@
+#selstart#boolean #selend#_filePutContents(#placeholderstart#string file#placeholderend#, #placeholderstart#string string#placeholderend#)#placeholderstart#;#placeholderend#

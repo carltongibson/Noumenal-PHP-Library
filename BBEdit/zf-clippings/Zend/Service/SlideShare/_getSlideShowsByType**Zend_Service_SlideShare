@@ -1,0 +1,1 @@
+#selstart#array #selend#_getSlideShowsByType(#placeholderstart#string key#placeholderend#, #placeholderstart#string value#placeholderend##placeholderstart#, [int offset]#placeholderend##placeholderstart#, [int limit]#placeholderend#)#placeholderstart#;#placeholderend#

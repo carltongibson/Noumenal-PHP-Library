@@ -1,0 +1,1 @@
+#selstart#Zend_Loader_Autoloader_Resource #selend#addResourceType(#placeholderstart#string type#placeholderend#, #placeholderstart#string path#placeholderend##placeholderstart#, [null namespace]#placeholderend#)#placeholderstart#;#placeholderend#

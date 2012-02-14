@@ -1,0 +1,1 @@
+#selstart#boolean #selend#send(#placeholderstart#mixed var#placeholderend##placeholderstart#, [string label]#placeholderend##placeholderstart#, [string style]#placeholderend##placeholderstart#, [array options]#placeholderend#)#placeholderstart#;#placeholderend#

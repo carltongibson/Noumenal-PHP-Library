@@ -1,0 +1,1 @@
+#selstart#Zend_Gdata_Gapps_UserEntry #selend#insertUser(#placeholderstart#Zend_Gdata_Gapps_UserEntry user#placeholderend##placeholderstart#, [string uri]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#string #selend#getContents(#placeholderstart#string filePath#placeholderend##placeholderstart#, [integer expiration]#placeholderend#)#placeholderstart#;#placeholderend#

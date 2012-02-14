@@ -1,0 +1,1 @@
+#selstart#Zend_Service_Amazon #selend#__construct(#placeholderstart#string appId#placeholderend##placeholderstart#, [string countryCode]#placeholderend##placeholderstart#, [ secretKey]#placeholderend#)#placeholderstart#;#placeholderend#

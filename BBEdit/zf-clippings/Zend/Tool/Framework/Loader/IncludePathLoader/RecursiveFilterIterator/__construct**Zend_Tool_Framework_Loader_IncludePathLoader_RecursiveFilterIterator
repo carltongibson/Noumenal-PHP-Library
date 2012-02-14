@@ -1,0 +1,1 @@
+__construct(#placeholderstart#RecursiveIterator iterator#placeholderend##placeholderstart#, [string denyDirectoryPattern]#placeholderend##placeholderstart#, [string acceptFilePattern]#placeholderend#)#placeholderstart#;#placeholderend#

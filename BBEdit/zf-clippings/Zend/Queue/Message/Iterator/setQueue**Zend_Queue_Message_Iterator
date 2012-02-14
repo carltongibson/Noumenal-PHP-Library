@@ -1,0 +1,1 @@
+#selstart#boolean #selend#setQueue(#placeholderstart#Zend_Queue_Adapter_AdapterInterface queue#placeholderend#)#placeholderstart#;#placeholderend#

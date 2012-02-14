@@ -1,0 +1,1 @@
+#selstart#string #selend#_digestMhash(#placeholderstart#string algorithm#placeholderend#, #placeholderstart#string data#placeholderend#, #placeholderstart#bool binaryOutput#placeholderend#)#placeholderstart#;#placeholderend#

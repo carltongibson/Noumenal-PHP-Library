@@ -1,0 +1,1 @@
+#selstart#PHPUnit_Framework_Constraint_Attribute #selend#attributeEqualTo(#placeholderstart#string attributeName#placeholderend#, #placeholderstart#mixed value#placeholderend##placeholderstart#, [float delta]#placeholderend##placeholderstart#, [integer maxDepth]#placeholderend#)#placeholderstart#;#placeholderend#

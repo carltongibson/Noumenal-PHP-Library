@@ -1,0 +1,1 @@
+#selstart#void #selend#write(#placeholderstart#[string filename]#placeholderend##placeholderstart#, [Zend_Config config]#placeholderend##placeholderstart#, [boolean exclusiveLock]#placeholderend#)#placeholderstart#;#placeholderend#

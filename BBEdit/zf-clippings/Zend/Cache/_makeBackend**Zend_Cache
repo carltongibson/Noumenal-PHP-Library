@@ -1,0 +1,1 @@
+#selstart#Zend_Cache_Backend #selend#_makeBackend(#placeholderstart#string backend#placeholderend#, #placeholderstart#array backendOptions#placeholderend##placeholderstart#, [boolean customBackendNaming]#placeholderend##placeholderstart#, [boolean autoload]#placeholderend#)#placeholderstart#;#placeholderend#

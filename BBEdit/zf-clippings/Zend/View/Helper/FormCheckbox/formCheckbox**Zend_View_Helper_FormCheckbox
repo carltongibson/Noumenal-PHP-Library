@@ -1,0 +1,1 @@
+#selstart#string #selend#formCheckbox(#placeholderstart#string name#placeholderend##placeholderstart#, [mixed value]#placeholderend##placeholderstart#, [array attribs]#placeholderend##placeholderstart#, [ checkedOptions]#placeholderend#)#placeholderstart#;#placeholderend#

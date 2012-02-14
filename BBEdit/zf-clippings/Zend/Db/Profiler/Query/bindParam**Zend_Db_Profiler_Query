@@ -1,0 +1,1 @@
+#selstart#void #selend#bindParam(#placeholderstart#string param#placeholderend#, #placeholderstart#mixed variable#placeholderend#)#placeholderstart#;#placeholderend#

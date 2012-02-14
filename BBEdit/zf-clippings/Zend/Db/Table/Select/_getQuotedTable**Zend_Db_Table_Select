@@ -1,0 +1,1 @@
+#selstart#string #selend#_getQuotedTable(#placeholderstart#string tableName#placeholderend##placeholderstart#, [string correlationName]#placeholderend#)#placeholderstart#;#placeholderend#

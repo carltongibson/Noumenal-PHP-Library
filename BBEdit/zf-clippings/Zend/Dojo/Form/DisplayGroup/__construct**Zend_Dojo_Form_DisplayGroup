@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#string name#placeholderend#, #placeholderstart#Zend_Loader_PluginLoader loader#placeholderend##placeholderstart#, [array options]#placeholderend#)#placeholderstart#;#placeholderend#

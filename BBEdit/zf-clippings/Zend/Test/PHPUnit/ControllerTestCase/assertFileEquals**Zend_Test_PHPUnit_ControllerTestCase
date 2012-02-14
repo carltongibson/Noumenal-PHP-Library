@@ -1,0 +1,1 @@
+assertFileEquals(#placeholderstart#string expected#placeholderend#, #placeholderstart#string actual#placeholderend##placeholderstart#, [string message]#placeholderend##placeholderstart#, [boolean canonicalizeEol]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#PHPUnit_Extensions_Database_DataSet_ITable #selend#createQueryTable(#placeholderstart#string resultName#placeholderend#, #placeholderstart#string sql#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#void #selend#fail(#placeholderstart#mixed other#placeholderend#, #placeholderstart#string description#placeholderend##placeholderstart#, [bool not]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#Zend_Loader_Autoloader #selend#unshiftAutoloader(#placeholderstart#object callback#placeholderend##placeholderstart#, [string namespace]#placeholderend#)#placeholderstart#;#placeholderend#

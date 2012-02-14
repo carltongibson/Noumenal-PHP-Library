@@ -1,0 +1,1 @@
+#selstart#string #selend#Pow(#placeholderstart#string op1#placeholderend#, #placeholderstart#string op2#placeholderend##placeholderstart#, [integer scale]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+getHttpClient(#placeholderstart#string token#placeholderend##placeholderstart#, [Zend_Gdata_HttpClient client]#placeholderend#)#placeholderstart#;#placeholderend#

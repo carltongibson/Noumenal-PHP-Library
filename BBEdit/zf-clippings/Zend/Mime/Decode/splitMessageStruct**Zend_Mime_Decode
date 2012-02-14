@@ -1,0 +1,1 @@
+#selstart#array #selend#splitMessageStruct(#placeholderstart#string message#placeholderend#, #placeholderstart#string boundary#placeholderend##placeholderstart#, [string EOL]#placeholderend#)#placeholderstart#;#placeholderend#

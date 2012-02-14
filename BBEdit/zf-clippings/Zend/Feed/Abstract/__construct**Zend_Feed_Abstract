@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#[string uri]#placeholderend##placeholderstart#, [string string]#placeholderend##placeholderstart#, [Zend_Feed_Builder_Interface builder]#placeholderend#)#placeholderstart#;#placeholderend#

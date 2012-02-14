@@ -1,0 +1,1 @@
+#selstart#Zend_Db_Profiler #selend#setFilterElapsedSecs(#placeholderstart#[integer minimumSeconds]#placeholderend#)#placeholderstart#;#placeholderend#

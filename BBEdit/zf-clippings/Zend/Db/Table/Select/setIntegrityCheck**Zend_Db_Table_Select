@@ -1,0 +1,1 @@
+#selstart#Zend_Db_Select #selend#setIntegrityCheck(#placeholderstart#[Zend_Db_Table_Abstract flag]#placeholderend#)#placeholderstart#;#placeholderend#

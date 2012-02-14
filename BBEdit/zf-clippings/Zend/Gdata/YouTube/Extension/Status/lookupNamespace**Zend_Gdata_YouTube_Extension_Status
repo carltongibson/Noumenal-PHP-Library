@@ -1,0 +1,1 @@
+#selstart#string #selend#lookupNamespace(#placeholderstart#string prefix#placeholderend##placeholderstart#, [integer majorVersion]#placeholderend##placeholderstart#, [integer minorVersion]#placeholderend#)#placeholderstart#;#placeholderend#

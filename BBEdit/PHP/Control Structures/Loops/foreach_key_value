@@ -1,0 +1,5 @@
+#indent#
+foreach (#placeholderstart#$array#placeholderend# as #placeholderstart#$key#placeholderend# => #placeholderstart#$value#placeholderend#)
+{
+    #insertion#
+}

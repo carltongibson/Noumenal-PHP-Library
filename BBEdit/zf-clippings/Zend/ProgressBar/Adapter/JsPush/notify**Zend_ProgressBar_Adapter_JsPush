@@ -1,0 +1,1 @@
+#selstart#void #selend#notify(#placeholderstart#float current#placeholderend#, #placeholderstart#float max#placeholderend#, #placeholderstart#float percent#placeholderend#, #placeholderstart#integer timeTaken#placeholderend#, #placeholderstart#integer timeRemaining#placeholderend#, #placeholderstart#string text#placeholderend#)#placeholderstart#;#placeholderend#

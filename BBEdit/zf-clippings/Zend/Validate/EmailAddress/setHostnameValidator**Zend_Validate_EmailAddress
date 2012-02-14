@@ -1,0 +1,1 @@
+#selstart#void #selend#setHostnameValidator(#placeholderstart#[Zend_Validate_Hostname hostnameValidator]#placeholderend##placeholderstart#, [int allow]#placeholderend#)#placeholderstart#;#placeholderend#

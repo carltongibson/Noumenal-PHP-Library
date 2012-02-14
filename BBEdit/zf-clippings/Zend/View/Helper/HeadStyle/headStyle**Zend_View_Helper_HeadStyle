@@ -1,0 +1,1 @@
+#selstart#Zend_View_Helper_HeadStyle #selend#headStyle(#placeholderstart#[string content]#placeholderend##placeholderstart#, [string placement]#placeholderend##placeholderstart#, [string attributes]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+execute(#placeholderstart#PHPUnit_Extensions_Database_DB_IDatabaseConnection connection#placeholderend#, #placeholderstart#PHPUnit_Extensions_Database_DataSet_IDataSet dataSet#placeholderend#)#placeholderstart#;#placeholderend#

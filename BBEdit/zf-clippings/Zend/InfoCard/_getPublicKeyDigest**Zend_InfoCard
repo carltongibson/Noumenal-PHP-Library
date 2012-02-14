@@ -1,0 +1,1 @@
+#selstart#string #selend#_getPublicKeyDigest(#placeholderstart#string key_id#placeholderend##placeholderstart#, [string digestMethod]#placeholderend#)#placeholderstart#;#placeholderend#

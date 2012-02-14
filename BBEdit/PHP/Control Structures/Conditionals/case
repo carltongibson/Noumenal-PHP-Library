@@ -1,0 +1,4 @@
+#indent#
+case "#placeholderstart#result#placeholderend#":
+	#insertion#
+	break;

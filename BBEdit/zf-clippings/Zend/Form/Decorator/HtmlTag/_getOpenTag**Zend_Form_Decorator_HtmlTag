@@ -1,0 +1,1 @@
+#selstart#string #selend#_getOpenTag(#placeholderstart#string tag#placeholderend##placeholderstart#, [array attribs]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#string #selend#import(#placeholderstart#string uri#placeholderend##placeholderstart#, [Zend_Http_Client client]#placeholderend##placeholderstart#, [string className]#placeholderend#)#placeholderstart#;#placeholderend#

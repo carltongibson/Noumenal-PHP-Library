@@ -1,0 +1,1 @@
+#selstart#Zend_Gdata_Health_ProfileEntry #selend#sendHealthNotice(#placeholderstart#string subject#placeholderend#, #placeholderstart#string body#placeholderend##placeholderstart#, [string bodyType]#placeholderend##placeholderstart#, [string ccrXML]#placeholderend#)#placeholderstart#;#placeholderend#

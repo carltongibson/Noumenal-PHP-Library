@@ -1,0 +1,1 @@
+#selstart#string #selend#lastInsertId(#placeholderstart#[string tableName]#placeholderend##placeholderstart#, [string primaryKey]#placeholderend#)#placeholderstart#;#placeholderend#

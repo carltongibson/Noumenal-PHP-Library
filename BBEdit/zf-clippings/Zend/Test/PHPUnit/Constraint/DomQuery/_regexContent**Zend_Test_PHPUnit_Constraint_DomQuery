@@ -1,0 +1,1 @@
+#selstart#bool #selend#_regexContent(#placeholderstart#Zend_Dom_Query_Result result#placeholderend#, #placeholderstart#string pattern#placeholderend#)#placeholderstart#;#placeholderend#

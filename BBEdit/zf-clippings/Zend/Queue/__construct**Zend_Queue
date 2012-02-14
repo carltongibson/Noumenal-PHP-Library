@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#string spec#placeholderend##placeholderstart#, [Zend_Config options]#placeholderend#)#placeholderstart#;#placeholderend#

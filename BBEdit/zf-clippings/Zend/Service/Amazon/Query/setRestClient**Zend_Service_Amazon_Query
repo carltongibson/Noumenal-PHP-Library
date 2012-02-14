@@ -1,0 +1,1 @@
+#selstart#Zend_Service_Amazon #selend#setRestClient(#placeholderstart#Zend_Rest_Client client#placeholderend#)#placeholderstart#;#placeholderend#

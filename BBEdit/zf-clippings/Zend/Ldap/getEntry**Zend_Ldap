@@ -1,0 +1,1 @@
+#selstart#array #selend#getEntry(#placeholderstart#string dn#placeholderend##placeholderstart#, [array attributes]#placeholderend##placeholderstart#, [boolean throwOnNotFound]#placeholderend#)#placeholderstart#;#placeholderend#

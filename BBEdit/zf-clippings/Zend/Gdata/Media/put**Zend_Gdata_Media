@@ -1,0 +1,1 @@
+#selstart#Zend_Http_Response #selend#put(#placeholderstart#mixed data#placeholderend##placeholderstart#, [string uri]#placeholderend##placeholderstart#, [array remainingRedirects]#placeholderend##placeholderstart#, [string contentType]#placeholderend##placeholderstart#, [array extraHeaders]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#mixed #selend#get(#placeholderstart#mixed value#placeholderend#, #placeholderstart#string classBaseName#placeholderend##placeholderstart#, [array args]#placeholderend##placeholderstart#, [array namespaces]#placeholderend#)#placeholderstart#;#placeholderend#

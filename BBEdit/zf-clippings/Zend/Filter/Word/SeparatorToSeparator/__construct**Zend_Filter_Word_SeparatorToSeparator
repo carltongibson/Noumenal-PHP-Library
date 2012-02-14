@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#[string searchSeparator]#placeholderend##placeholderstart#, [string replacementSeparator]#placeholderend#)#placeholderstart#;#placeholderend#

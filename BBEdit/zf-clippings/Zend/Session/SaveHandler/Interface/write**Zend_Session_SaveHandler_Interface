@@ -1,0 +1,1 @@
+write(#placeholderstart#string id#placeholderend#, #placeholderstart#mixed data#placeholderend#)#placeholderstart#;#placeholderend#

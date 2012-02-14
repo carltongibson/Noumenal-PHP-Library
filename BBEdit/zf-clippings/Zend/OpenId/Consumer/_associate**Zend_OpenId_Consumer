@@ -1,0 +1,1 @@
+#selstart#bool #selend#_associate(#placeholderstart#string url#placeholderend#, #placeholderstart#float version#placeholderend##placeholderstart#, [string priv_key]#placeholderend#)#placeholderstart#;#placeholderend#

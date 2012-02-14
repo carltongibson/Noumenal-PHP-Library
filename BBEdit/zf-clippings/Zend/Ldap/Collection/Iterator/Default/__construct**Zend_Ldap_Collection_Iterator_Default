@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#Zend_Ldap ldap#placeholderend#, #placeholderstart#resource resultId#placeholderend#)#placeholderstart#;#placeholderend#

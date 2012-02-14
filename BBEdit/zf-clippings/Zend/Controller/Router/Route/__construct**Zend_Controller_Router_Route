@@ -1,0 +1,1 @@
+__construct(#placeholderstart#string route#placeholderend##placeholderstart#, [array defaults]#placeholderend##placeholderstart#, [array reqs]#placeholderend##placeholderstart#, [array translator]#placeholderend##placeholderstart#, [Zend_Translate locale]#placeholderend#)#placeholderstart#;#placeholderend#

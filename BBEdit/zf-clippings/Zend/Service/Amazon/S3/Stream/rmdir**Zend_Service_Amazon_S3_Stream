@@ -1,0 +1,1 @@
+#selstart#boolean #selend#rmdir(#placeholderstart#string path#placeholderend#, #placeholderstart#integer options#placeholderend#)#placeholderstart#;#placeholderend#

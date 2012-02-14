@@ -1,0 +1,1 @@
+#selstart#array #selend#describeTable(#placeholderstart#string tableName#placeholderend##placeholderstart#, [string schemaName]#placeholderend#)#placeholderstart#;#placeholderend#

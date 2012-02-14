@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#[string namespace]#placeholderend##placeholderstart#, [bool singleInstance]#placeholderend#)#placeholderstart#;#placeholderend#

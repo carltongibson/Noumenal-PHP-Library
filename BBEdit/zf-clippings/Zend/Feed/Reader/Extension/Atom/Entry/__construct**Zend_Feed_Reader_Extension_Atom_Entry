@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#Zend_Feed_Entry_Abstract entry#placeholderend#, #placeholderstart#int entryKey#placeholderend##placeholderstart#, [string type]#placeholderend#)#placeholderstart#;#placeholderend#

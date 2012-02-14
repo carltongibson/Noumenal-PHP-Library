@@ -1,0 +1,1 @@
+#selstart#string #selend#_checkGroupMembership(#placeholderstart#Zend_Ldap ldap#placeholderend#, #placeholderstart#string canonicalName#placeholderend#, #placeholderstart#string dn#placeholderend#, #placeholderstart#array adapterOptions#placeholderend#)#placeholderstart#;#placeholderend#

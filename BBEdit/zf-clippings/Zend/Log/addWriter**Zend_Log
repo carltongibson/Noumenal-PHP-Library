@@ -1,0 +1,1 @@
+#selstart#void #selend#addWriter(#placeholderstart#Zend_Log_Writer_Abstract writer#placeholderend#)#placeholderstart#;#placeholderend#

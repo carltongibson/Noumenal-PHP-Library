@@ -1,0 +1,1 @@
+#selstart#array #selend#fetchAssoc(#placeholderstart#string sql#placeholderend##placeholderstart#, [mixed bind]#placeholderend#)#placeholderstart#;#placeholderend#

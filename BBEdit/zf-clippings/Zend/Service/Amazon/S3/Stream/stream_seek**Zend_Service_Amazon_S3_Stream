@@ -1,0 +1,1 @@
+#selstart#boolean #selend#stream_seek(#placeholderstart#integer offset#placeholderend#, #placeholderstart#integer whence#placeholderend#)#placeholderstart#;#placeholderend#

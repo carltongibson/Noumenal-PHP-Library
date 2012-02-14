@@ -1,0 +1,5 @@
+#indent#
+do
+{
+    #insertion#
+} while (#placeholderstart#test condition#placeholderend#);

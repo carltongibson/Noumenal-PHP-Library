@@ -1,0 +1,1 @@
+#selstart#string #selend#readStringMacRoman(#placeholderstart#integer byteCount#placeholderend##placeholderstart#, [string characterSet]#placeholderend#)#placeholderstart#;#placeholderend#

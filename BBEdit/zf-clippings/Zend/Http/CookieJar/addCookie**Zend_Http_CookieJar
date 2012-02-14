@@ -1,0 +1,1 @@
+addCookie(#placeholderstart#Zend_Http_Cookie cookie#placeholderend##placeholderstart#, [Zend_Uri_Http ref_uri]#placeholderend#)#placeholderstart#;#placeholderend#

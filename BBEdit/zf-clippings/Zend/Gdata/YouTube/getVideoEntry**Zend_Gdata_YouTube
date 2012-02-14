@@ -1,0 +1,1 @@
+#selstart#Zend_Gdata_YouTube_VideoEntry #selend#getVideoEntry(#placeholderstart#[mixed videoId]#placeholderend##placeholderstart#, [mixed location]#placeholderend##placeholderstart#, [boolean fullEntry]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#Zend_Auth #selend#setStorage(#placeholderstart#Zend_Auth_Storage_Interface storage#placeholderend#)#placeholderstart#;#placeholderend#

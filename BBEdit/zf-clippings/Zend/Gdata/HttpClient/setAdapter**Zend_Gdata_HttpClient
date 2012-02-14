@@ -1,0 +1,1 @@
+#selstart#void #selend#setAdapter(#placeholderstart#Zend_Http_Client_Adapter_Interface adapter#placeholderend#)#placeholderstart#;#placeholderend#

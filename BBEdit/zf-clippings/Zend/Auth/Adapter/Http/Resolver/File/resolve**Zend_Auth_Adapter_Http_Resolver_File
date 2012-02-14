@@ -1,0 +1,1 @@
+#selstart#string #selend#resolve(#placeholderstart#string username#placeholderend#, #placeholderstart#string realm#placeholderend#)#placeholderstart#;#placeholderend#

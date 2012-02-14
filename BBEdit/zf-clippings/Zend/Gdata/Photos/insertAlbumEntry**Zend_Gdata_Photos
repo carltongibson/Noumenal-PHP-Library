@@ -1,0 +1,1 @@
+#selstart#Zend_Gdata_Photos_AlbumEntry #selend#insertAlbumEntry(#placeholderstart#Zend_Gdata_Photos_AlbumEntry album#placeholderend##placeholderstart#, [string uri]#placeholderend#)#placeholderstart#;#placeholderend#

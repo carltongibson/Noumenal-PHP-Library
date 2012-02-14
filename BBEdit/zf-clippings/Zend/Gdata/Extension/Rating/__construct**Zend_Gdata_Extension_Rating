@@ -1,0 +1,1 @@
+__construct(#placeholderstart#[integer average]#placeholderend##placeholderstart#, [integer min]#placeholderend##placeholderstart#, [integer max]#placeholderend##placeholderstart#, [integer numRaters]#placeholderend##placeholderstart#, [integer value]#placeholderend#)#placeholderstart#;#placeholderend#

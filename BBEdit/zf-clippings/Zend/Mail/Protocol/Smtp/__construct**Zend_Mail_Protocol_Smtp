@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#[string host]#placeholderend##placeholderstart#, [integer port]#placeholderend##placeholderstart#, [array config]#placeholderend#)#placeholderstart#;#placeholderend#

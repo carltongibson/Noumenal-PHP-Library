@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#string cssQuery#placeholderend#, #placeholderstart#string xpathQuery#placeholderend#, #placeholderstart#DOMDocument document#placeholderend#, #placeholderstart#DOMNodeList nodeList#placeholderend#)#placeholderstart#;#placeholderend#

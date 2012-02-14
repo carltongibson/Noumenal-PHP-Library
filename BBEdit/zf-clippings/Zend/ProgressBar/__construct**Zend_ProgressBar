@@ -1,0 +1,1 @@
+__construct(#placeholderstart#Zend_ProgressBar_Adapter adapter#placeholderend##placeholderstart#, [float min]#placeholderend##placeholderstart#, [float max]#placeholderend##placeholderstart#, [string persistenceNamespace]#placeholderend#)#placeholderstart#;#placeholderend#

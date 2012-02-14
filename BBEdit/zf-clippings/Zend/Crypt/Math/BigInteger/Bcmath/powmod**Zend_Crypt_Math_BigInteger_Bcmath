@@ -1,0 +1,1 @@
+#selstart#string #selend#powmod(#placeholderstart#string left_operand#placeholderend#, #placeholderstart#string right_operand#placeholderend#, #placeholderstart# modulus#placeholderend#)#placeholderstart#;#placeholderend#

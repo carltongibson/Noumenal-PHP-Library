@@ -1,0 +1,1 @@
+#selstart#null #selend#_buildFolderTree(#placeholderstart#string currentDir#placeholderend##placeholderstart#, [Zend_Mail_Storage_Folder parentFolder]#placeholderend##placeholderstart#, [string parentGlobalName]#placeholderend#)#placeholderstart#;#placeholderend#

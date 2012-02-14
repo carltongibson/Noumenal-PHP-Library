@@ -1,0 +1,1 @@
+#selstart#Zend_Dojo_Form_Element_ValidationTextBox #selend#setRegExp(#placeholderstart#string regexp#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#string #selend#convertNumerals(#placeholderstart#string input#placeholderend#, #placeholderstart#string from#placeholderend##placeholderstart#, [string to]#placeholderend#)#placeholderstart#;#placeholderend#

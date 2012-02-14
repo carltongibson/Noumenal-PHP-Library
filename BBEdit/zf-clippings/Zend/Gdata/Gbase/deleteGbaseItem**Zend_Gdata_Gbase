@@ -1,0 +1,1 @@
+#selstart#Zend_Gdata_Gbase_ItemFeed #selend#deleteGbaseItem(#placeholderstart#Zend_Gdata_Gbase_ItemEntry entry#placeholderend##placeholderstart#, [boolean dryRun]#placeholderend#)#placeholderstart#;#placeholderend#

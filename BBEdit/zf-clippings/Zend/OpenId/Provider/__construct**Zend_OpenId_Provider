@@ -1,0 +1,1 @@
+__construct(#placeholderstart#[string loginUrl]#placeholderend##placeholderstart#, [string trustUrl]#placeholderend##placeholderstart#, [Zend_OpenId_Provider_User user]#placeholderend##placeholderstart#, [Zend_OpenId_Provider_Storage storage]#placeholderend##placeholderstart#, [integer sessionTtl]#placeholderend#)#placeholderstart#;#placeholderend#

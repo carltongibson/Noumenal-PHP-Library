@@ -1,0 +1,1 @@
+#selstart#integer #selend#compareTime(#placeholderstart#string time#placeholderend##placeholderstart#, [string format]#placeholderend##placeholderstart#, [string locale]#placeholderend#)#placeholderstart#;#placeholderend#

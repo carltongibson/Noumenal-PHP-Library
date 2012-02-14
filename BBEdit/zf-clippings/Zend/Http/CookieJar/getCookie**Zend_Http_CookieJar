@@ -1,0 +1,1 @@
+#selstart#Zend_Http_Cookie #selend#getCookie(#placeholderstart#Zend_Uri_Http uri#placeholderend#, #placeholderstart#string cookie_name#placeholderend##placeholderstart#, [int ret_as]#placeholderend#)#placeholderstart#;#placeholderend#

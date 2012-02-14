@@ -1,0 +1,1 @@
+#selstart#object #selend#factory(#placeholderstart#string section#placeholderend##placeholderstart#, [string key]#placeholderend##placeholderstart#, [string secret_key]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#bool #selend#copy(#placeholderstart#string folder#placeholderend#, #placeholderstart#int from#placeholderend##placeholderstart#, [ to]#placeholderend#)#placeholderstart#;#placeholderend#

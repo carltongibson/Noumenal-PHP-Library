@@ -1,0 +1,1 @@
+#selstart#string #selend#sign(#placeholderstart#string data#placeholderend##placeholderstart#, [Zend_Crypt_Rsa_Key_Private privateKey]#placeholderend##placeholderstart#, [string format]#placeholderend#)#placeholderstart#;#placeholderend#

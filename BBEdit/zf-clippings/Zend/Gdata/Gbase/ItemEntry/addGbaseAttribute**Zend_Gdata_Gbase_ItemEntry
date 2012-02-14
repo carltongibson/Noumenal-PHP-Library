@@ -1,0 +1,1 @@
+#selstart#Zend_Gdata_Gbase_ItemEntry #selend#addGbaseAttribute(#placeholderstart#string name#placeholderend#, #placeholderstart#string text#placeholderend##placeholderstart#, [string type]#placeholderend#)#placeholderstart#;#placeholderend#

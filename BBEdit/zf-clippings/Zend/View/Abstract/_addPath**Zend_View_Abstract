@@ -1,0 +1,1 @@
+#selstart#void #selend#_addPath(#placeholderstart#string type#placeholderend#, #placeholderstart#string path#placeholderend##placeholderstart#, [string prefix]#placeholderend#)#placeholderstart#;#placeholderend#

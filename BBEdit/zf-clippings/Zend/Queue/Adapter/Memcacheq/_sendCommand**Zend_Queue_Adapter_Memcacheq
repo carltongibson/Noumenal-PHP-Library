@@ -1,0 +1,1 @@
+#selstart#array #selend#_sendCommand(#placeholderstart#string command#placeholderend#, #placeholderstart#array terminator#placeholderend##placeholderstart#, [boolean include_term]#placeholderend#)#placeholderstart#;#placeholderend#

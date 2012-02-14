@@ -1,0 +1,1 @@
+setDefaultTransport(#placeholderstart#Zend_Mail_Transport_Abstract transport#placeholderend#)#placeholderstart#;#placeholderend#

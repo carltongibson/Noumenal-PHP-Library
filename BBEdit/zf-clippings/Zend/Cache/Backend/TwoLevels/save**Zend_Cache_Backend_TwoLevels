@@ -1,0 +1,1 @@
+#selstart#boolean #selend#save(#placeholderstart#string data#placeholderend#, #placeholderstart#string id#placeholderend##placeholderstart#, [array tags]#placeholderend##placeholderstart#, [int specificLifetime]#placeholderend##placeholderstart#, [int priority]#placeholderend#)#placeholderstart#;#placeholderend#

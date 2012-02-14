@@ -1,0 +1,1 @@
+__construct(#placeholderstart#string localName#placeholderend##placeholderstart#, [string globalName]#placeholderend##placeholderstart#, [bool selectable]#placeholderend##placeholderstart#, [array folders]#placeholderend#)#placeholderstart#;#placeholderend#

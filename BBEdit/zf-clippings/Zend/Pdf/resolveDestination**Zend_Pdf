@@ -1,0 +1,1 @@
+#selstart#Zend_Pdf_Page #selend#resolveDestination(#placeholderstart#Zend_Pdf_Destination destination#placeholderend##placeholderstart#, [boolean refreshPageCollectionHashes]#placeholderend#)#placeholderstart#;#placeholderend#

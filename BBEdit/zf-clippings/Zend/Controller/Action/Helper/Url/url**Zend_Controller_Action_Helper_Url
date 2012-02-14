@@ -1,0 +1,1 @@
+#selstart#string #selend#url(#placeholderstart#[array urlOptions]#placeholderend##placeholderstart#, [mixed name]#placeholderend##placeholderstart#, [boolean reset]#placeholderend##placeholderstart#, [boolean encode]#placeholderend#)#placeholderstart#;#placeholderend#

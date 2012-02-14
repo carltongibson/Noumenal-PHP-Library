@@ -1,0 +1,1 @@
+#selstart#void #selend#registerNamespace(#placeholderstart#string prefix#placeholderend#, #placeholderstart#string namespaceUri#placeholderend##placeholderstart#, [integer majorVersion]#placeholderend##placeholderstart#, [integer minorVersion]#placeholderend#)#placeholderstart#;#placeholderend#

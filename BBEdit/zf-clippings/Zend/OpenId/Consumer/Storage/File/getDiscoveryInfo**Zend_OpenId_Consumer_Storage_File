@@ -1,0 +1,1 @@
+#selstart#bool #selend#getDiscoveryInfo(#placeholderstart#string id#placeholderend#, #placeholderstart#string realId#placeholderend#, #placeholderstart#string server#placeholderend#, #placeholderstart#float version#placeholderend#, #placeholderstart#long expires#placeholderend#)#placeholderstart#;#placeholderend#

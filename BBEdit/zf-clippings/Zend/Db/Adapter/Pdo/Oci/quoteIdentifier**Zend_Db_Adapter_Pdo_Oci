@@ -1,0 +1,1 @@
+#selstart#string #selend#quoteIdentifier(#placeholderstart#string ident#placeholderend##placeholderstart#, [boolean auto]#placeholderend#)#placeholderstart#;#placeholderend#

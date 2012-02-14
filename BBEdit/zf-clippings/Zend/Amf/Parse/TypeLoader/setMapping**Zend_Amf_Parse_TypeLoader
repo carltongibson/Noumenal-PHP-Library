@@ -1,0 +1,1 @@
+#selstart#void #selend#setMapping(#placeholderstart#string asClassName#placeholderend#, #placeholderstart#string phpClassName#placeholderend#)#placeholderstart#;#placeholderend#

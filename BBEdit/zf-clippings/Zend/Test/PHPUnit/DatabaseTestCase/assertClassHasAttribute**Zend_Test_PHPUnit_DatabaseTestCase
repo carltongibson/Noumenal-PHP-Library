@@ -1,0 +1,1 @@
+assertClassHasAttribute(#placeholderstart#string attributeName#placeholderend#, #placeholderstart#string className#placeholderend##placeholderstart#, [string message]#placeholderend#)#placeholderstart#;#placeholderend#

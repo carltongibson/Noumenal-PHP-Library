@@ -1,0 +1,1 @@
+#selstart#string #selend#addSignature(#placeholderstart#string method#placeholderend#, #placeholderstart#string path#placeholderend#, #placeholderstart#array headers#placeholderend#)#placeholderstart#;#placeholderend#

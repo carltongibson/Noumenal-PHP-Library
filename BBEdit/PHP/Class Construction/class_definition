@@ -1,0 +1,4 @@
+class #placeholderstart#ClassName#placeholderend##placeholderstart# extends SuperClassName#placeholderend##placeholderstart# implements InterfaceName#placeholderend#
+{
+	#insertion#
+}

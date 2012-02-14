@@ -1,0 +1,1 @@
+#selstart#void #selend#assertNotHeaderRegex(#placeholderstart#string header#placeholderend#, #placeholderstart#string pattern#placeholderend##placeholderstart#, [string message]#placeholderend#)#placeholderstart#;#placeholderend#

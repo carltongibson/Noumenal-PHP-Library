@@ -1,0 +1,1 @@
+#selstart#array #selend#getSpreadsheetCellFeedContents(#placeholderstart#mixed location#placeholderend##placeholderstart#, [string range]#placeholderend##placeholderstart#, [boolean empty]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#void #selend#writeTypeMarker(#placeholderstart#mixed content#placeholderend##placeholderstart#, [int markerType]#placeholderend#)#placeholderstart#;#placeholderend#

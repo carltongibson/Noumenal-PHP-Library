@@ -1,0 +1,1 @@
+#selstart#Zend_View_Helper_HeadScript #selend#headScript(#placeholderstart#[string mode]#placeholderend##placeholderstart#, [string spec]#placeholderend##placeholderstart#, [string placement]#placeholderend##placeholderstart#, [array attrs]#placeholderend##placeholderstart#, [string type]#placeholderend#)#placeholderstart#;#placeholderend#

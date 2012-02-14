@@ -1,0 +1,1 @@
+_getFile(#placeholderstart#string locale#placeholderend#, #placeholderstart#string path#placeholderend##placeholderstart#, [string attribute]#placeholderend##placeholderstart#, [string value]#placeholderend##placeholderstart#, [ temp]#placeholderend#)#placeholderstart#;#placeholderend#

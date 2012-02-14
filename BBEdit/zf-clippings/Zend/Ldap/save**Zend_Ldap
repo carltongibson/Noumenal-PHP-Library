@@ -1,0 +1,1 @@
+#selstart#Zend_Ldap #selend#save(#placeholderstart#string dn#placeholderend#, #placeholderstart#array entry#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#array #selend#_buildSignatures(#placeholderstart#array return#placeholderend#, #placeholderstart#string returnDesc#placeholderend#, #placeholderstart#array paramTypes#placeholderend#, #placeholderstart#array paramDesc#placeholderend#)#placeholderstart#;#placeholderend#

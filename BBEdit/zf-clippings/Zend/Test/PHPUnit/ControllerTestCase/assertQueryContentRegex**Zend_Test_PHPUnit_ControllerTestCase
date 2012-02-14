@@ -1,0 +1,1 @@
+#selstart#void #selend#assertQueryContentRegex(#placeholderstart#string path#placeholderend#, #placeholderstart#string pattern#placeholderend##placeholderstart#, [string message]#placeholderend#)#placeholderstart#;#placeholderend#

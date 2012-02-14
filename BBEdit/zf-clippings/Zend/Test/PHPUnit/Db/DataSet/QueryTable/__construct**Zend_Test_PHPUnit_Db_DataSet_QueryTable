@@ -1,0 +1,1 @@
+__construct(#placeholderstart#string tableName#placeholderend#, #placeholderstart#string query#placeholderend#, #placeholderstart#PHPUnit_Extensions_Database_DB_IDatabaseConnection databaseConnection#placeholderend#)#placeholderstart#;#placeholderend#

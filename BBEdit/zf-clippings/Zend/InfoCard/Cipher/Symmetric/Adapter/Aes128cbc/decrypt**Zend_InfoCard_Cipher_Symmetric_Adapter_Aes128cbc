@@ -1,0 +1,1 @@
+#selstart#string #selend#decrypt(#placeholderstart#string encryptedData#placeholderend#, #placeholderstart#string decryptionKey#placeholderend##placeholderstart#, [integer iv_length]#placeholderend#)#placeholderstart#;#placeholderend#

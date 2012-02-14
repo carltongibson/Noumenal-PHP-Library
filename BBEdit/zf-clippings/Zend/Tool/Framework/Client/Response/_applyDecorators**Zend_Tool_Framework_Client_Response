@@ -1,0 +1,1 @@
+#selstart#string #selend#_applyDecorators(#placeholderstart#string content#placeholderend#, #placeholderstart#array decoratorOptions#placeholderend#)#placeholderstart#;#placeholderend#

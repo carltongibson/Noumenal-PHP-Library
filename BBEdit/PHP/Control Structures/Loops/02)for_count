@@ -1,0 +1,5 @@
+#indent#
+for ($i = 0; $i < count(#selstart#$array#selend#); $i++)
+{
+    #insertion#
+}

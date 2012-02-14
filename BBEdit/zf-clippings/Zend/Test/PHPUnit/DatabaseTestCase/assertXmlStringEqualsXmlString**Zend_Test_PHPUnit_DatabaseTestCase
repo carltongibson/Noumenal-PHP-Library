@@ -1,0 +1,1 @@
+assertXmlStringEqualsXmlString(#placeholderstart#string expectedXml#placeholderend#, #placeholderstart#string actualXml#placeholderend##placeholderstart#, [string message]#placeholderend#)#placeholderstart#;#placeholderend#

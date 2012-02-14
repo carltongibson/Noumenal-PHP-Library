@@ -1,0 +1,1 @@
+#selstart#boolean #selend#_setMetadatas(#placeholderstart#string id#placeholderend#, #placeholderstart#array metadatas#placeholderend##placeholderstart#, [boolean save]#placeholderend#)#placeholderstart#;#placeholderend#

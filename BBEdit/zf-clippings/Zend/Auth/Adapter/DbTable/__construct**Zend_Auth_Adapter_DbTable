@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#Zend_Db_Adapter_Abstract zendDb#placeholderend##placeholderstart#, [string tableName]#placeholderend##placeholderstart#, [string identityColumn]#placeholderend##placeholderstart#, [string credentialColumn]#placeholderend##placeholderstart#, [string credentialTreatment]#placeholderend#)#placeholderstart#;#placeholderend#

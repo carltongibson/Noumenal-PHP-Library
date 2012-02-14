@@ -1,0 +1,1 @@
+#selstart#Zend_Db_Adapter_Oracle #selend#setLobAsString(#placeholderstart#string lobAsString#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#array #selend#determineCheckboxInfo(#placeholderstart#string value#placeholderend#, #placeholderstart#bool checked#placeholderend##placeholderstart#, [array checkedOptions]#placeholderend#)#placeholderstart#;#placeholderend#

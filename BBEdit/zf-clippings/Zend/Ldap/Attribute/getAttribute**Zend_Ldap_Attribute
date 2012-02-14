@@ -1,0 +1,1 @@
+#selstart#array #selend#getAttribute(#placeholderstart#array data#placeholderend#, #placeholderstart#string attribName#placeholderend##placeholderstart#, [integer index]#placeholderend#)#placeholderstart#;#placeholderend#

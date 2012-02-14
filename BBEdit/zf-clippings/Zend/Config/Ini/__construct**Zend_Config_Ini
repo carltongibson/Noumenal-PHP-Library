@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#string filename#placeholderend##placeholderstart#, [string section]#placeholderend##placeholderstart#, [boolean options]#placeholderend#)#placeholderstart#;#placeholderend#

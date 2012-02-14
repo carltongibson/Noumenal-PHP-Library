@@ -1,0 +1,1 @@
+#selstart#boolean #selend#checkDn(#placeholderstart#string dn#placeholderend##placeholderstart#, [array keys]#placeholderend##placeholderstart#, [array vals]#placeholderend##placeholderstart#, [string caseFold]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#string #selend#write(#placeholderstart#string method#placeholderend#, #placeholderstart#Zend_Uri_Http uri#placeholderend##placeholderstart#, [float http_ver]#placeholderend##placeholderstart#, [array headers]#placeholderend##placeholderstart#, [string body]#placeholderend#)#placeholderstart#;#placeholderend#

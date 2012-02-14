@@ -1,0 +1,1 @@
+#selstart#void #selend#setExpirationSeconds(#placeholderstart#int seconds#placeholderend##placeholderstart#, [mixed variables]#placeholderend#)#placeholderstart#;#placeholderend#

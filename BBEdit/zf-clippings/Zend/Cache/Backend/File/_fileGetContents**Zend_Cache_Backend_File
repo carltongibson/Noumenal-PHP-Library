@@ -1,0 +1,1 @@
+#selstart#string #selend#_fileGetContents(#placeholderstart#string file#placeholderend#)#placeholderstart#;#placeholderend#

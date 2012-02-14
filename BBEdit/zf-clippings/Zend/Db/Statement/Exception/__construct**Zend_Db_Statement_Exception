@@ -1,0 +1,1 @@
+__construct(#placeholderstart#[string message]#placeholderend##placeholderstart#, [string code]#placeholderend##placeholderstart#, [Exception chainedException]#placeholderend#)#placeholderstart#;#placeholderend#

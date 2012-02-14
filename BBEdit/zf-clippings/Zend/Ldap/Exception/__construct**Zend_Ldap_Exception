@@ -1,0 +1,1 @@
+__construct(#placeholderstart#[Zend_Ldap ldap]#placeholderend##placeholderstart#, [string str]#placeholderend##placeholderstart#, [int code]#placeholderend#)#placeholderstart#;#placeholderend#

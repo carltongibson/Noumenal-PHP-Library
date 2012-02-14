@@ -1,0 +1,1 @@
+#selstart#array #selend#getPages(#placeholderstart#Zend_Paginator paginator#placeholderend##placeholderstart#, [integer pageRange]#placeholderend#)#placeholderstart#;#placeholderend#

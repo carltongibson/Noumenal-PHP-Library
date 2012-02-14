@@ -1,0 +1,1 @@
+#selstart#string #selend#dump(#placeholderstart#mixed var#placeholderend##placeholderstart#, [string label]#placeholderend##placeholderstart#, [bool echo]#placeholderend#)#placeholderstart#;#placeholderend#

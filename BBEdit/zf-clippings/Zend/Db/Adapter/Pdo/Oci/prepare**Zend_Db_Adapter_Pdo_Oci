@@ -1,0 +1,1 @@
+#selstart#PDOStatement #selend#prepare(#placeholderstart#string sql#placeholderend#)#placeholderstart#;#placeholderend#

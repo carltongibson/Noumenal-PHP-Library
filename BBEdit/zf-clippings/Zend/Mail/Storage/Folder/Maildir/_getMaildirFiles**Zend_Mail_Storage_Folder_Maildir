@@ -1,0 +1,1 @@
+#selstart#null #selend#_getMaildirFiles(#placeholderstart#resource dh#placeholderend#, #placeholderstart#string dirname#placeholderend##placeholderstart#, [array default_flags]#placeholderend#)#placeholderstart#;#placeholderend#

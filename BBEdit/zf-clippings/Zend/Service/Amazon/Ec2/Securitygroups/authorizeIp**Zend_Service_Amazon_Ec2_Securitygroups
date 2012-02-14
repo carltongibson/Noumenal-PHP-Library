@@ -1,0 +1,1 @@
+#selstart#boolean #selend#authorizeIp(#placeholderstart#string name#placeholderend#, #placeholderstart#string ipProtocol#placeholderend#, #placeholderstart#integer fromPort#placeholderend#, #placeholderstart#integer toPort#placeholderend#, #placeholderstart#string cidrIp#placeholderend#)#placeholderstart#;#placeholderend#

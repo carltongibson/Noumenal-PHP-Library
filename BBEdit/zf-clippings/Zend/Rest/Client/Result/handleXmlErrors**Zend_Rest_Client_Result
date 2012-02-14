@@ -1,0 +1,1 @@
+handleXmlErrors(#placeholderstart#int errno#placeholderend#, #placeholderstart#string errstr#placeholderend##placeholderstart#, [string errfile]#placeholderend##placeholderstart#, [string errline]#placeholderend##placeholderstart#, [array errcontext]#placeholderend#)#placeholderstart#;#placeholderend#

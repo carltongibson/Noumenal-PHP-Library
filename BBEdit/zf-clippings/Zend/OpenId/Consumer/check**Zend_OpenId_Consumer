@@ -1,0 +1,1 @@
+#selstart#bool #selend#check(#placeholderstart#string id#placeholderend##placeholderstart#, [string returnTo]#placeholderend##placeholderstart#, [string root]#placeholderend##placeholderstart#, [mixed extensions]#placeholderend##placeholderstart#, [Zend_Controller_Response_Abstract response]#placeholderend#)#placeholderstart#;#placeholderend#

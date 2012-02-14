@@ -1,0 +1,1 @@
+#selstart#string #selend#getText(#placeholderstart#[ trim]#placeholderend#)#placeholderstart#;#placeholderend#

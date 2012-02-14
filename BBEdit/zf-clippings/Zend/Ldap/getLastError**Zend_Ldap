@@ -1,0 +1,1 @@
+#selstart#string #selend#getLastError(#placeholderstart#[int errorCode]#placeholderend##placeholderstart#, [array errorMessages]#placeholderend#)#placeholderstart#;#placeholderend#

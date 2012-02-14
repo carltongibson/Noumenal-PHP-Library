@@ -1,0 +1,1 @@
+#selstart#Zend_Pdf_Page #selend#clipPolygon(#placeholderstart#array x#placeholderend#, #placeholderstart#array y#placeholderend##placeholderstart#, [integer fillMethod]#placeholderend#)#placeholderstart#;#placeholderend#

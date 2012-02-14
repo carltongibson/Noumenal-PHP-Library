@@ -1,0 +1,1 @@
+#selstart#Zend_Pdf_Page #selend#rotate(#placeholderstart#float x#placeholderend#, #placeholderstart#float y#placeholderend#, #placeholderstart#float angle#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#string #selend#top(#placeholderstart#int msgno#placeholderend##placeholderstart#, [int lines]#placeholderend##placeholderstart#, [bool fallback]#placeholderend#)#placeholderstart#;#placeholderend#

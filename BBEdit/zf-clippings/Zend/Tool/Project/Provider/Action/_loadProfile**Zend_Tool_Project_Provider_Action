@@ -1,0 +1,1 @@
+_loadProfile(#placeholderstart#[loadProfileFlag]#placeholderend##placeholderstart#, [projectDirectory]#placeholderend##placeholderstart#, [searchParentDirectories]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#Zend_Controller_Front #selend#registerPlugin(#placeholderstart#Zend_Controller_Plugin_Abstract plugin#placeholderend##placeholderstart#, [int stackIndex]#placeholderend#)#placeholderstart#;#placeholderend#

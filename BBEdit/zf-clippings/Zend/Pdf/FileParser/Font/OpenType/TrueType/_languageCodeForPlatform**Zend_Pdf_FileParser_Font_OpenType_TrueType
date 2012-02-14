@@ -1,0 +1,1 @@
+#selstart#string #selend#_languageCodeForPlatform(#placeholderstart#integer platformID#placeholderend#, #placeholderstart#integer languageID#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+addReference(#placeholderstart#string ref#placeholderend#, #placeholderstart#integer offset#placeholderend##placeholderstart#, [boolean inuse]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+__construct(#placeholderstart#[bool specialized]#placeholderend##placeholderstart#, [Zend_Gdata_EntryLink entryLink]#placeholderend##placeholderstart#, [Zend_Gdata_OriginalEvent originalEvent]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#boolean #selend#isDate(#placeholderstart#string date#placeholderend##placeholderstart#, [string format]#placeholderend##placeholderstart#, [string locale]#placeholderend#)#placeholderstart#;#placeholderend#

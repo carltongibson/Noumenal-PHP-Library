@@ -1,0 +1,1 @@
+#selstart#Zend_View_Abstract #selend#addHelperPath(#placeholderstart#string path#placeholderend##placeholderstart#, [string classPrefix]#placeholderend#)#placeholderstart#;#placeholderend#

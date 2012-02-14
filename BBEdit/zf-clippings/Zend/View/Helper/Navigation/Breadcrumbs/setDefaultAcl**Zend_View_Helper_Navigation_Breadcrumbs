@@ -1,0 +1,1 @@
+#selstart#void #selend#setDefaultAcl(#placeholderstart#[Zend_Acl acl]#placeholderend#)#placeholderstart#;#placeholderend#

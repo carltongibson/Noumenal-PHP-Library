@@ -1,0 +1,1 @@
+#selstart#Zend_Service_Delicious_PostList #selend#getPosts(#placeholderstart#[string tag]#placeholderend##placeholderstart#, [Zend_Date dt]#placeholderend##placeholderstart#, [string url]#placeholderend#)#placeholderstart#;#placeholderend#

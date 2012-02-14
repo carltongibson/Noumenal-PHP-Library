@@ -1,0 +1,1 @@
+#selstart#boolean #selend#_recordMessage(#placeholderstart#string structure#placeholderend#, #placeholderstart#array data#placeholderend##placeholderstart#, [boolean skipEncode]#placeholderend#)#placeholderstart#;#placeholderend#

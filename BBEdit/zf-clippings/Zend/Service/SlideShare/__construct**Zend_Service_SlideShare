@@ -1,0 +1,1 @@
+__construct(#placeholderstart#string apikey#placeholderend#, #placeholderstart#string sharedSecret#placeholderend##placeholderstart#, [string username]#placeholderend##placeholderstart#, [string password]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+__construct(#placeholderstart#[Zend_Http_Client client]#placeholderend##placeholderstart#, [string applicationId]#placeholderend##placeholderstart#, [string clientId]#placeholderend##placeholderstart#, [string developerKey]#placeholderend#)#placeholderstart#;#placeholderend#

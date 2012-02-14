@@ -1,0 +1,1 @@
+#selstart#Zend_Auth_Adapter_Http #selend#setDigestResolver(#placeholderstart#Zend_Auth_Adapter_Http_Resolver_Interface resolver#placeholderend#)#placeholderstart#;#placeholderend#

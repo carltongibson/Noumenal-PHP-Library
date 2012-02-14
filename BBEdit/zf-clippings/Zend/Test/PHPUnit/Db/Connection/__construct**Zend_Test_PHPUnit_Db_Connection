@@ -1,0 +1,1 @@
+__construct(#placeholderstart#Zend_Db_Adapter_Abstract db#placeholderend#, #placeholderstart#string schema#placeholderend#)#placeholderstart#;#placeholderend#

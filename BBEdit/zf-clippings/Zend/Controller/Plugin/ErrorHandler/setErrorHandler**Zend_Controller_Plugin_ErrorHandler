@@ -1,0 +1,1 @@
+#selstart#Zend_Controller_Plugin_ErrorHandler #selend#setErrorHandler(#placeholderstart#[array options]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#float #selend#readFixed(#placeholderstart#integer mantissaBits#placeholderend#, #placeholderstart#integer fractionBits#placeholderend##placeholderstart#, [integer byteOrder]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#string title#placeholderend#, #placeholderstart#string link#placeholderend##placeholderstart#, [string charset]#placeholderend#)#placeholderstart#;#placeholderend#

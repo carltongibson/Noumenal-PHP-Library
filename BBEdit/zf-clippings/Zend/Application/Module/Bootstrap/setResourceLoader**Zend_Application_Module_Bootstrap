@@ -1,0 +1,1 @@
+#selstart#Zend_Application_Module_Bootstrap #selend#setResourceLoader(#placeholderstart#Zend_Loader_Autoloader_Resource loader#placeholderend#)#placeholderstart#;#placeholderend#

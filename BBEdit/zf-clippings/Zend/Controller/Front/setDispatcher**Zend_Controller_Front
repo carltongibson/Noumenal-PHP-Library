@@ -1,0 +1,1 @@
+#selstart#Zend_Controller_Front #selend#setDispatcher(#placeholderstart#Zend_Controller_Dispatcher_Interface dispatcher#placeholderend#)#placeholderstart#;#placeholderend#

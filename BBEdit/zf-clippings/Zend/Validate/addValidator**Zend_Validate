@@ -1,0 +1,1 @@
+#selstart#Zend_Validate #selend#addValidator(#placeholderstart#Zend_Validate_Interface validator#placeholderend##placeholderstart#, [boolean breakChainOnFailure]#placeholderend#)#placeholderstart#;#placeholderend#

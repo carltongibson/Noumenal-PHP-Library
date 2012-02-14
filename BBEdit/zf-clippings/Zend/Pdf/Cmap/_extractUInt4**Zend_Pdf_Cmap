@@ -1,0 +1,1 @@
+#selstart#integer #selend#_extractUInt4(#placeholderstart#string data#placeholderend#, #placeholderstart#integer index#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+__construct(#placeholderstart#[Zend_Http_Client client]#placeholderend##placeholderstart#, [string applicationId]#placeholderend##placeholderstart#, [bool useH9Sandbox]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+redirect(#placeholderstart#string url#placeholderend##placeholderstart#, [array params]#placeholderend##placeholderstart#, [Zend_Controller_Response_Abstract response]#placeholderend##placeholderstart#, [string method]#placeholderend#)#placeholderstart#;#placeholderend#

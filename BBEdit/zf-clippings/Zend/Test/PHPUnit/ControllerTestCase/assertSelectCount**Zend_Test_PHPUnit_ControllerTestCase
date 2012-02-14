@@ -1,0 +1,1 @@
+assertSelectCount(#placeholderstart#array selector#placeholderend#, #placeholderstart#integer count#placeholderend#, #placeholderstart#mixed actual#placeholderend##placeholderstart#, [string message]#placeholderend##placeholderstart#, [boolean isHtml]#placeholderend#)#placeholderstart#;#placeholderend#

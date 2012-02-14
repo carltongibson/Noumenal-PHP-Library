@@ -1,0 +1,1 @@
+#selstart#Zend_Gdata_Photos_CommentEntry #selend#insertCommentEntry(#placeholderstart#Zend_Gdata_Photos_CommentEntry comment#placeholderend##placeholderstart#, [string uri]#placeholderend#)#placeholderstart#;#placeholderend#

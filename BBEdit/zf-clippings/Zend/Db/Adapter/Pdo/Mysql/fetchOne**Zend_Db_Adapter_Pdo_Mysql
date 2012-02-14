@@ -1,0 +1,1 @@
+#selstart#string #selend#fetchOne(#placeholderstart#string sql#placeholderend##placeholderstart#, [mixed bind]#placeholderend#)#placeholderstart#;#placeholderend#

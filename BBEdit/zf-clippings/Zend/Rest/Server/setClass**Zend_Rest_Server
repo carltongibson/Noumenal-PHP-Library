@@ -1,0 +1,1 @@
+setClass(#placeholderstart#string classname#placeholderend##placeholderstart#, [string namespace]#placeholderend##placeholderstart#, [array argv]#placeholderend#)#placeholderstart#;#placeholderend#

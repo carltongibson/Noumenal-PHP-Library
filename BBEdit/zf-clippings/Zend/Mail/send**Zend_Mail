@@ -1,0 +1,1 @@
+#selstart#Zend_Mail #selend#send(#placeholderstart#[Zend_Mail_Transport_Abstract transport]#placeholderend#)#placeholderstart#;#placeholderend#

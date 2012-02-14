@@ -1,0 +1,1 @@
+#selstart#array #selend#receive(#placeholderstart#string queue_url#placeholderend##placeholderstart#, [integer max_messages]#placeholderend##placeholderstart#, [integer timeout]#placeholderend#)#placeholderstart#;#placeholderend#

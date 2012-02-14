@@ -1,0 +1,1 @@
+#selstart#PDO_Statement #selend#query(#placeholderstart#[integer fetchMode]#placeholderend##placeholderstart#, [mixed bind]#placeholderend#)#placeholderstart#;#placeholderend#

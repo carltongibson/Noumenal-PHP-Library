@@ -1,0 +1,1 @@
+#selstart#void #selend#_errorHandler(#placeholderstart#integer errno#placeholderend#, #placeholderstart#string errstr#placeholderend#, #placeholderstart#string errfile#placeholderend#, #placeholderstart#integer errline#placeholderend#, #placeholderstart#array errcontext#placeholderend#)#placeholderstart#;#placeholderend#

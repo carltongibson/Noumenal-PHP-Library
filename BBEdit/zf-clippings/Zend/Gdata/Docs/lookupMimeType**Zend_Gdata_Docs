@@ -1,0 +1,1 @@
+#selstart#string #selend#lookupMimeType(#placeholderstart#string fileExtension#placeholderend#)#placeholderstart#;#placeholderend#

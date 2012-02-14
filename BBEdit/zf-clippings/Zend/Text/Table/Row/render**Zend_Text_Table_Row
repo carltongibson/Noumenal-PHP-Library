@@ -1,0 +1,1 @@
+#selstart#string #selend#render(#placeholderstart#array columnWidths#placeholderend#, #placeholderstart#Zend_Text_Table_Decorator_Interface decorator#placeholderend##placeholderstart#, [integer padding]#placeholderend#)#placeholderstart#;#placeholderend#

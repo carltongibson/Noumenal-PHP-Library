@@ -1,0 +1,1 @@
+iniSet(#placeholderstart#string varName#placeholderend#, #placeholderstart#string newValue#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#Zend_Log_Writer_Mail #selend#setSubjectPrependText(#placeholderstart#string subject#placeholderend#)#placeholderstart#;#placeholderend#

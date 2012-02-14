@@ -1,0 +1,1 @@
+#selstart#string #selend#readStringUTF16(#placeholderstart#integer byteCount#placeholderend##placeholderstart#, [integer byteOrder]#placeholderend##placeholderstart#, [string characterSet]#placeholderend#)#placeholderstart#;#placeholderend#

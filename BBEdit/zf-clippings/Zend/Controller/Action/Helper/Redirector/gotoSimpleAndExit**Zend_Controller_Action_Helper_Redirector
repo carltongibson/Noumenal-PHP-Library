@@ -1,0 +1,1 @@
+#selstart#void #selend#gotoSimpleAndExit(#placeholderstart#mixed action#placeholderend##placeholderstart#, [mixed controller]#placeholderend##placeholderstart#, [mixed module]#placeholderend##placeholderstart#, [array params]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#integer #selend#getAbsoluteItemNumber(#placeholderstart#integer relativeItemNumber#placeholderend##placeholderstart#, [integer pageNumber]#placeholderend#)#placeholderstart#;#placeholderend#

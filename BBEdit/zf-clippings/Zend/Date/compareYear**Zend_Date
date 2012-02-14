@@ -1,0 +1,1 @@
+#selstart#integer #selend#compareYear(#placeholderstart#string year#placeholderend##placeholderstart#, [string locale]#placeholderend#)#placeholderstart#;#placeholderend#

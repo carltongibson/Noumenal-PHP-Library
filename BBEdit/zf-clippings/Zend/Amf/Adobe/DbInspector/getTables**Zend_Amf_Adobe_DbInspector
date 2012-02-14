@@ -1,0 +1,1 @@
+#selstart#array #selend#getTables(#placeholderstart#string dbType#placeholderend#, #placeholderstart#array dbDescription#placeholderend#)#placeholderstart#;#placeholderend#

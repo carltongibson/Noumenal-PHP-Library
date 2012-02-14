@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#array rules#placeholderend##placeholderstart#, [array argv]#placeholderend##placeholderstart#, [array getoptConfig]#placeholderend#)#placeholderstart#;#placeholderend#

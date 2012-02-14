@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#string server#placeholderend##placeholderstart#, [Zend_Http_Client httpClient]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#string #selend#_where(#placeholderstart#string condition#placeholderend##placeholderstart#, [string value]#placeholderend##placeholderstart#, [string type]#placeholderend##placeholderstart#, [boolean bool]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#void #selend#__construct(#placeholderstart#ReflectionClass reflection#placeholderend##placeholderstart#, [string namespace]#placeholderend##placeholderstart#, [mixed argv]#placeholderend#)#placeholderstart#;#placeholderend#

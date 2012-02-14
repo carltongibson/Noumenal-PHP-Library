@@ -1,0 +1,1 @@
+#selstart#bool #selend#store(#placeholderstart#array flags#placeholderend#, #placeholderstart#int from#placeholderend##placeholderstart#, [int to]#placeholderend##placeholderstart#, [string mode]#placeholderend##placeholderstart#, [bool silent]#placeholderend#)#placeholderstart#;#placeholderend#

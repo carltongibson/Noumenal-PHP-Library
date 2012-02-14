@@ -1,0 +1,1 @@
+#selstart#Zend_Db_Statement_Db2 #selend#prepare(#placeholderstart#string sql#placeholderend#)#placeholderstart#;#placeholderend#

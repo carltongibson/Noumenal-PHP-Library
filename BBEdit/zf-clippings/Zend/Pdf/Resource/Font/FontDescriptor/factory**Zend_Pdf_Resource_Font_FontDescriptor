@@ -1,0 +1,1 @@
+#selstart#Zend_Pdf_Element_Dictionary #selend#factory(#placeholderstart#Zend_Pdf_Resource_Font font#placeholderend#, #placeholderstart#Zend_Pdf_FileParser_Font_OpenType fontParser#placeholderend#, #placeholderstart#integer embeddingOptions#placeholderend#)#placeholderstart#;#placeholderend#

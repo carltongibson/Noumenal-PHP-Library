@@ -1,0 +1,1 @@
+#selstart#Zend_Http_Response #selend#restGet(#placeholderstart#string path#placeholderend##placeholderstart#, [array query]#placeholderend#)#placeholderstart#;#placeholderend#

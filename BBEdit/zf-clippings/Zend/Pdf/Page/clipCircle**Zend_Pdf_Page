@@ -1,0 +1,1 @@
+#selstart#Zend_Pdf_Page #selend#clipCircle(#placeholderstart#float x#placeholderend#, #placeholderstart#float y#placeholderend#, #placeholderstart#float radius#placeholderend##placeholderstart#, [float startAngle]#placeholderend##placeholderstart#, [float endAngle]#placeholderend#)#placeholderstart#;#placeholderend#

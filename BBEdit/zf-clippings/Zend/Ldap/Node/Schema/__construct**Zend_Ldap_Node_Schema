@@ -1,0 +1,1 @@
+__construct(#placeholderstart#Zend_Ldap_Dn dn#placeholderend#, #placeholderstart#array data#placeholderend#, #placeholderstart#Zend_Ldap ldap#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#bool #selend#forAll(#placeholderstart#mixed extensions#placeholderend#, #placeholderstart#string func#placeholderend#, #placeholderstart#mixed params#placeholderend#)#placeholderstart#;#placeholderend#

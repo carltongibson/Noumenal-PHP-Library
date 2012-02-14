@@ -1,0 +1,1 @@
+#selstart#string #selend#readStringPascal(#placeholderstart#[string characterSet]#placeholderend##placeholderstart#, [integer lengthBytes]#placeholderend#)#placeholderstart#;#placeholderend#

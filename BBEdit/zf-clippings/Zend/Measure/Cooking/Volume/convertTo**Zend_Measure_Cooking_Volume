@@ -1,0 +1,1 @@
+#selstart#string #selend#convertTo(#placeholderstart#string type#placeholderend##placeholderstart#, [integer round]#placeholderend##placeholderstart#, [string locale]#placeholderend#)#placeholderstart#;#placeholderend#

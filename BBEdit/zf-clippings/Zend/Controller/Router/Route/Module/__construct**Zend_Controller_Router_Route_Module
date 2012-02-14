@@ -1,0 +1,1 @@
+__construct(#placeholderstart#[array defaults]#placeholderend##placeholderstart#, [Zend_Controller_Dispatcher_Interface dispatcher]#placeholderend##placeholderstart#, [Zend_Controller_Request_Abstract request]#placeholderend#)#placeholderstart#;#placeholderend#

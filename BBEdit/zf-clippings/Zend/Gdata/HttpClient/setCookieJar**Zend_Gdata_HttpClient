@@ -1,0 +1,1 @@
+#selstart#Zend_Http_Client #selend#setCookieJar(#placeholderstart#[Zend_Http_CookieJar cookiejar]#placeholderend#)#placeholderstart#;#placeholderend#

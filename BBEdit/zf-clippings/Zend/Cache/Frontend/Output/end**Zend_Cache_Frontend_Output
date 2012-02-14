@@ -1,0 +1,1 @@
+#selstart#void #selend#end(#placeholderstart#[array tags]#placeholderend##placeholderstart#, [int specificLifetime]#placeholderend##placeholderstart#, [string forcedDatas]#placeholderend##placeholderstart#, [boolean echoData]#placeholderend##placeholderstart#, [int priority]#placeholderend#)#placeholderstart#;#placeholderend#

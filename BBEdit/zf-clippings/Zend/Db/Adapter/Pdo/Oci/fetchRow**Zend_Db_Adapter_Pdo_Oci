@@ -1,0 +1,1 @@
+#selstart#array #selend#fetchRow(#placeholderstart#string sql#placeholderend##placeholderstart#, [mixed bind]#placeholderend##placeholderstart#, [mixed fetchMode]#placeholderend#)#placeholderstart#;#placeholderend#

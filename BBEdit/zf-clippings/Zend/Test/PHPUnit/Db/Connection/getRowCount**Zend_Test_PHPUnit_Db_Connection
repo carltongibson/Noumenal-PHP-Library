@@ -1,0 +1,1 @@
+getRowCount(#placeholderstart#string tableName#placeholderend##placeholderstart#, [string whereClause]#placeholderend#)#placeholderstart#;#placeholderend#

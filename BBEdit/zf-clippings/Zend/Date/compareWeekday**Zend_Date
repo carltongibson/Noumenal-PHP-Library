@@ -1,0 +1,1 @@
+#selstart#integer #selend#compareWeekday(#placeholderstart#string weekday#placeholderend##placeholderstart#, [string locale]#placeholderend#)#placeholderstart#;#placeholderend#

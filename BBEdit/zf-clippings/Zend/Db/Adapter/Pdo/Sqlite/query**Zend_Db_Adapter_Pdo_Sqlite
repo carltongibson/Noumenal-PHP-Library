@@ -1,0 +1,1 @@
+#selstart#Zend_Db_Statement_Pdo #selend#query(#placeholderstart#string sql#placeholderend##placeholderstart#, [array bind]#placeholderend#)#placeholderstart#;#placeholderend#

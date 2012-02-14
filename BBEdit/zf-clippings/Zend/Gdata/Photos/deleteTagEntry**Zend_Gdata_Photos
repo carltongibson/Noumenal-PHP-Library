@@ -1,0 +1,1 @@
+#selstart#void #selend#deleteTagEntry(#placeholderstart#Zend_Gdata_Photos_TagEntry tag#placeholderend#, #placeholderstart#boolean catch#placeholderend#)#placeholderstart#;#placeholderend#

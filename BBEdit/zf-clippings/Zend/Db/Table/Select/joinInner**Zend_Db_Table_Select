@@ -1,0 +1,1 @@
+#selstart#Zend_Db_Select #selend#joinInner(#placeholderstart#array name#placeholderend#, #placeholderstart#string cond#placeholderend##placeholderstart#, [array cols]#placeholderend##placeholderstart#, [string schema]#placeholderend#)#placeholderstart#;#placeholderend#

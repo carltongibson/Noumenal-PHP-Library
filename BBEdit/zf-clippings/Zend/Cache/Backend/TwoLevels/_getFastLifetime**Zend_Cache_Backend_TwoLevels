@@ -1,0 +1,1 @@
+#selstart#int #selend#_getFastLifetime(#placeholderstart#int lifetime#placeholderend#, #placeholderstart#int priority#placeholderend##placeholderstart#, [int maxLifetime]#placeholderend#)#placeholderstart#;#placeholderend#

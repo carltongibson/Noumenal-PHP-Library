@@ -1,0 +1,1 @@
+#selstart#string #selend#addCertificatePair(#placeholderstart#string private_key_file#placeholderend#, #placeholderstart#string public_key_file#placeholderend##placeholderstart#, [string type]#placeholderend##placeholderstart#, [string password]#placeholderend#)#placeholderstart#;#placeholderend#

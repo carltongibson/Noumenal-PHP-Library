@@ -1,0 +1,1 @@
+#selstart#string #selend#getMissingParameterPromptString(#placeholderstart#Zend_Tool_Framework_Provider_Interface provider#placeholderend#, #placeholderstart#Zend_Tool_Framework_Action_Interface actionInterface#placeholderend#, #placeholderstart#string missingParameterName#placeholderend#)#placeholderstart#;#placeholderend#

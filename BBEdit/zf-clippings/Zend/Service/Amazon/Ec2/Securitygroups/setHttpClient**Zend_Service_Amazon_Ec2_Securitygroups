@@ -1,0 +1,1 @@
+setHttpClient(#placeholderstart#Zend_Http_Client httpClient#placeholderend#)#placeholderstart#;#placeholderend#

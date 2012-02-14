@@ -1,0 +1,1 @@
+#selstart#array #selend#_getRules(#placeholderstart#[Zend_Acl_Resource_Interface resource]#placeholderend##placeholderstart#, [Zend_Acl_Role_Interface role]#placeholderend##placeholderstart#, [boolean create]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#string #selend#quoteColumnAs(#placeholderstart#string ident#placeholderend#, #placeholderstart#string alias#placeholderend##placeholderstart#, [boolean auto]#placeholderend#)#placeholderstart#;#placeholderend#

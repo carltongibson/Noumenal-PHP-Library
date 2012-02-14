@@ -1,0 +1,1 @@
+#selstart#bool #selend#_regex(#placeholderstart#Zend_Controller_Response_HttpTestCase response#placeholderend#, #placeholderstart#string pattern#placeholderend#)#placeholderstart#;#placeholderend#

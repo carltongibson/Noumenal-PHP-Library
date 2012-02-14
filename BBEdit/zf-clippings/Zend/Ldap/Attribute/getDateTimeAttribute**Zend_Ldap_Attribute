@@ -1,0 +1,1 @@
+#selstart#array #selend#getDateTimeAttribute(#placeholderstart#array data#placeholderend#, #placeholderstart#string attribName#placeholderend##placeholderstart#, [integer index]#placeholderend#)#placeholderstart#;#placeholderend#

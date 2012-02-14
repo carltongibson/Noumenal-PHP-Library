@@ -1,0 +1,1 @@
+#selstart#Zend_Mime_Part #selend#createAttachment(#placeholderstart#string body#placeholderend##placeholderstart#, [string mimeType]#placeholderend##placeholderstart#, [string disposition]#placeholderend##placeholderstart#, [string encoding]#placeholderend##placeholderstart#, [string filename]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#Zend_Service_Delicious_PostList #selend#getUserPosts(#placeholderstart#string user#placeholderend##placeholderstart#, [int count]#placeholderend##placeholderstart#, [string tag]#placeholderend#)#placeholderstart#;#placeholderend#

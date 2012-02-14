@@ -1,0 +1,1 @@
+#selstart#string #selend#wordWrap(#placeholderstart#string string#placeholderend##placeholderstart#, [integer width]#placeholderend##placeholderstart#, [string break]#placeholderend##placeholderstart#, [boolean cut]#placeholderend##placeholderstart#, [string charset]#placeholderend#)#placeholderstart#;#placeholderend#

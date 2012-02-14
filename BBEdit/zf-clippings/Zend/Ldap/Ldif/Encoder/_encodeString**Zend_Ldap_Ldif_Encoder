@@ -1,0 +1,1 @@
+#selstart#string #selend#_encodeString(#placeholderstart#string string#placeholderend##placeholderstart#, [boolen base64]#placeholderend#)#placeholderstart#;#placeholderend#

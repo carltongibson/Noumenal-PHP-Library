@@ -1,0 +1,1 @@
+#selstart#bool #selend#bindValue(#placeholderstart#mixed parameter#placeholderend#, #placeholderstart#mixed value#placeholderend##placeholderstart#, [mixed type]#placeholderend#)#placeholderstart#;#placeholderend#

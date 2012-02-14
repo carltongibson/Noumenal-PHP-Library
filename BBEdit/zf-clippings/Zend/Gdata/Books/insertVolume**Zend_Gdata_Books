@@ -1,0 +1,1 @@
+#selstart#Zend_Gdata_Books_VolumeEntry #selend#insertVolume(#placeholderstart#Zend_Gdata_Books_VolumeEntry entry#placeholderend##placeholderstart#, [Zend_Gdata_Query location]#placeholderend#)#placeholderstart#;#placeholderend#

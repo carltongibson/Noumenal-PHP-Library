@@ -1,0 +1,1 @@
+#selstart#string #selend#getPartContent(#placeholderstart#int partnum#placeholderend##placeholderstart#, [ EOL]#placeholderend#)#placeholderstart#;#placeholderend#

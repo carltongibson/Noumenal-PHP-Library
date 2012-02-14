@@ -1,0 +1,1 @@
+#selstart#string #selend#connect(#placeholderstart#string host#placeholderend##placeholderstart#, [int port]#placeholderend##placeholderstart#, [string ssl]#placeholderend#)#placeholderstart#;#placeholderend#

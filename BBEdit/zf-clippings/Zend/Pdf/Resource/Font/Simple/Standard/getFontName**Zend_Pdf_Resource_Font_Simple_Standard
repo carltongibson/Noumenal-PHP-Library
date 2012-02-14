@@ -1,0 +1,1 @@
+#selstart#string #selend#getFontName(#placeholderstart#integer nameType#placeholderend#, #placeholderstart#mixed language#placeholderend##placeholderstart#, [string characterSet]#placeholderend#)#placeholderstart#;#placeholderend#

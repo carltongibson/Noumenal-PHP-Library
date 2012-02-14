@@ -1,0 +1,1 @@
+#selstart#Zend_Form_Element_File #selend#addValidator(#placeholderstart#string validator#placeholderend##placeholderstart#, [bool breakChainOnFailure]#placeholderend##placeholderstart#, [mixed options]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#Zend_Db_Table_Row #selend#getRow(#placeholderstart#int position#placeholderend##placeholderstart#, [bool seek]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#string #selend#encode(#placeholderstart#mixed value#placeholderend##placeholderstart#, [boolean cycleCheck]#placeholderend##placeholderstart#, [array options]#placeholderend#)#placeholderstart#;#placeholderend#

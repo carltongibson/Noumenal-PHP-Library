@@ -1,0 +1,1 @@
+#selstart#void #selend#assertRedirect(#placeholderstart#[string message]#placeholderend#)#placeholderstart#;#placeholderend#

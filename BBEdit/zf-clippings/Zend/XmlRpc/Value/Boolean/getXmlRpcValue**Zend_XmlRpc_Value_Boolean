@@ -1,0 +1,1 @@
+#selstart#Zend_XmlRpc_Value #selend#getXmlRpcValue(#placeholderstart#mixed value#placeholderend##placeholderstart#, [Zend_XmlRpc_Value type]#placeholderend#)#placeholderstart#;#placeholderend#

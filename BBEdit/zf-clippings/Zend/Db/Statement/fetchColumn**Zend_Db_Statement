@@ -1,0 +1,1 @@
+#selstart#string #selend#fetchColumn(#placeholderstart#[int col]#placeholderend#)#placeholderstart#;#placeholderend#

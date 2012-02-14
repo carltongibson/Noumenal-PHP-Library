@@ -1,0 +1,1 @@
+#selstart#string #selend#assemble(#placeholderstart#[array data]#placeholderend##placeholderstart#, [bool reset]#placeholderend##placeholderstart#, [ encode]#placeholderend##placeholderstart#, [ partial]#placeholderend#)#placeholderstart#;#placeholderend#

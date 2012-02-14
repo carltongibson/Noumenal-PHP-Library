@@ -1,0 +1,1 @@
+#selstart#Zend_Tool_Framework_Provider_Repository #selend#addProvider(#placeholderstart#Zend_Tool_Framework_Provider_Interface provider#placeholderend##placeholderstart#, [ overwriteExistingProvider]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+#selstart#array #selend#_getFiles(#placeholderstart#string files#placeholderend##placeholderstart#, [boolean names]#placeholderend##placeholderstart#, [boolean noexception]#placeholderend#)#placeholderstart#;#placeholderend#

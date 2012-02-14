@@ -1,0 +1,1 @@
+#selstart#void #selend#log(#placeholderstart#string message#placeholderend#, #placeholderstart#integer priority#placeholderend#)#placeholderstart#;#placeholderend#

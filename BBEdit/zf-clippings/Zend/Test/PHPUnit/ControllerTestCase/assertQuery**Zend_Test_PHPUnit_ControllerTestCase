@@ -1,0 +1,1 @@
+#selstart#void #selend#assertQuery(#placeholderstart#string path#placeholderend##placeholderstart#, [string message]#placeholderend#)#placeholderstart#;#placeholderend#

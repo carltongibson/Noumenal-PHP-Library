@@ -1,0 +1,1 @@
+#selstart#Zend_File_Transfer_Adapter_Abstract #selend#addFile(#placeholderstart#string file#placeholderend##placeholderstart#, [string validator]#placeholderend##placeholderstart#, [string filter]#placeholderend#)#placeholderstart#;#placeholderend#
